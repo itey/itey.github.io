@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LiquidEarn - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/liquidearn/</link>
+        <description>LiquidEarn - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/liquidearn/" rel="self" type="application/rss+xml" /><item>
+    <title>LiquidEarn</title>
+    <link>https://www.metabd.cc/nfts/liquidearn/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/liquidearn/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/liquidearn.png" referrerpolicy="no-referrer">
+            </div>Liquidearn is a decentralized automated market maker (AMM) on the Fantom Opera blockchain, optimized for trading pegged value crypto assets with minimal slippage. LiquidEarn enables cheap, efficient, swift, and low-slippage swaps for traders and high-yield pools for LPs. Liquidearn holds an important part of the defi ecosystem allowing for large transaction value of stable coins. Using your regular token dex for this can cost you a lot the higher the]]></description>
+</item></channel>
+</rss>

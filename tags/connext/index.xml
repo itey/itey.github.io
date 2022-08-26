@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Connext - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/connext/</link>
+        <description>Connext - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 15 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/connext/" rel="self" type="application/rss+xml" /><item>
+    <title>Connext</title>
+    <link>https://www.metabd.cc/nfts/connext/</link>
+    <pubDate>Mon, 15 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/connext/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/connext.png" referrerpolicy="no-referrer">
+            </div>您可以使用 Connext 跨链和/或汇总发送价值交易或调用数据。 与大多数其他互操作性系统不同，Connext 无需引入任何新的信任假设或外部验证器即可实现这]]></description>
+</item></channel>
+</rss>

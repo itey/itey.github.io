@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Alien&#39;sFarm - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/aliensfarm/</link>
+        <description>Alien&#39;sFarm - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/aliensfarm/" rel="self" type="application/rss+xml" /><item>
+    <title>Alien&#39;sFarm</title>
+    <link>https://www.metabd.cc/nfts/alien-sfarm/</link>
+    <pubDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>kiki</name><uri>https://www.metabd.cc/authors/kiki</uri></author><guid>https://www.metabd.cc/nfts/alien-sfarm/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/alien-sfarm.png" referrerpolicy="no-referrer">
+            </div>它是一个基于 Tezos 的开源平台，具有以下优势： 无限制地创建任何代币到代币池。我们的 AMM 支持 FA1.2-FA2 代币。 优化路由。 Alien 的 DEX 会自动选择最赚钱的交易路线。 作为流]]></description>
+</item></channel>
+</rss>

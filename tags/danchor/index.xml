@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Danchor - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/danchor/</link>
+        <description>Danchor - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/danchor/" rel="self" type="application/rss+xml" /><item>
+    <title>Danchor</title>
+    <link>https://www.metabd.cc/nfts/danchor/</link>
+    <pubDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/danchor/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/danchor.png" referrerpolicy="no-referrer">
+            </div>Danchor 是一个基于 EOS 的去中心化 Staking 稳定币项目，支持用户通过 Staking EOS 生成稳定币 USN（1:1 挂钩 USD）。 Danchor是基于EOS的去中心化常规型稳定币]]></description>
+</item></channel>
+</rss>

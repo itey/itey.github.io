@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ethboard - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ethboard/</link>
+        <description>Ethboard - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ethboard/" rel="self" type="application/rss+xml" /><item>
+    <title>Ethboard</title>
+    <link>https://www.metabd.cc/nfts/ethboard/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/ethboard/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ethboard.png" referrerpolicy="no-referrer">
+            </div>Etherboard 是一个以太坊驱动的广告牌，如果他们付费的话，它允许人们将滚动的 LCD 消息或广告牌图像更改为他们选择的一种，大部分收益直接捐赠给慈善机构。我想创]]></description>
+</item></channel>
+</rss>

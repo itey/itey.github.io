@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/</link>
+        <description>全球亿万用户共建共享的元宇宙Web3.0应用导航门户，汇集全球最大最全的元宇宙行业资讯、元宇宙项目、Web3.0应用、NFTs和元宇宙游戏，斗极元宇宙平台60%的广告收入和86%的积分将全部用于用户激励和社区建设。</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 10 Aug 2022 08:47:36 &#43;0800</lastBuildDate>
+            <atom:link href="https://www.metabd.cc/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

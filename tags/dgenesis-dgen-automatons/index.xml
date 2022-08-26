@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>dGenesis dGen Automatons - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dgenesis-dgen-automatons/</link>
+        <description>dGenesis dGen Automatons - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dgenesis-dgen-automatons/" rel="self" type="application/rss+xml" /><item>
+    <title>dGenesis dGen Automatons</title>
+    <link>https://www.metabd.cc/nfts/dgenesis-dgen-automatons/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dgenesis-dgen-automatons/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dgenesis-dgen-automatons.png" referrerpolicy="no-referrer">
+            </div>dGen 自动机是二维循环元胞自动机的一种变体；离散时间确定性系统的实现，其中基于整数的晶格根据定义单元邻域的算法改变状态。由此产生的图像是生成艺术]]></description>
+</item></channel>
+</rss>

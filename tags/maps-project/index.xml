@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Maps Project - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/maps-project/</link>
+        <description>Maps Project - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/maps-project/" rel="self" type="application/rss+xml" /><item>
+    <title>Maps Project</title>
+    <link>https://www.metabd.cc/nfts/maps-project/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/maps-project/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/maps-project.png" referrerpolicy="no-referrer">
+            </div>地图是冒险家旅程中（伪）随机生成的航路点地名，并附有地图。所有数据都存储在链上。随心所欲地使用地图，并与您最喜欢的冒险战利品配对。较大的 Loot Project]]></description>
+</item></channel>
+</rss>

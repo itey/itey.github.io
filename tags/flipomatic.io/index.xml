@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Flipomatic.io - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/flipomatic.io/</link>
+        <description>Flipomatic.io - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/flipomatic.io/" rel="self" type="application/rss+xml" /><item>
+    <title>Flipomatic.io</title>
+    <link>https://www.metabd.cc/nfts/flipomatic-io/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/flipomatic-io/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/flipomatic-io.png" referrerpolicy="no-referrer">
+            </div>Flipomatic.io 是一个智能合约，允许用户在 Polygon 网络上以 50/50 的保证赔率翻转硬币并加倍下注。 由chainLink担保所有赌注。 每次翻转都要缴纳 3.5% 的税，以奖励 Flipo NFT 持]]></description>
+</item></channel>
+</rss>

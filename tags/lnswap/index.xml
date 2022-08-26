@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LNSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lnswap/</link>
+        <description>LNSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lnswap/" rel="self" type="application/rss+xml" /><item>
+    <title>LNSwap</title>
+    <link>https://www.metabd.cc/nfts/lnswap/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/lnswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lnswap.png" referrerpolicy="no-referrer">
+            </div>LNSwap 是一种原子交换交换，可实现比特币（链上和闪电网络）与包括 STX 在内的 Stacks 上的资产之间的无信任交换。 用户只需点击几下和 1 次确认即可从闪电网络上的比]]></description>
+</item></channel>
+</rss>

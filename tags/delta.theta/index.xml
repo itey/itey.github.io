@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>delta.theta - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/delta.theta/</link>
+        <description>delta.theta - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/delta.theta/" rel="self" type="application/rss+xml" /><item>
+    <title>delta.theta</title>
+    <link>https://www.metabd.cc/nfts/delta-theta/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/delta-theta/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/delta-theta.png" referrerpolicy="no-referrer">
+            </div>delta.theta 是一个点对点期权交易平台，目前在币安智能链、Polygon 和以太坊上运行。简而言之，它是一种使 CEX 的期权流动性在链上可用的协议。 delta.theta 使实时订单]]></description>
+</item></channel>
+</rss>

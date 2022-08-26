@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Liquity - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/liquity/</link>
+        <description>Liquity - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/liquity/" rel="self" type="application/rss+xml" /><item>
+    <title>Liquity</title>
+    <link>https://www.metabd.cc/nfts/liquity/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/liquity/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/liquity.png" referrerpolicy="no-referrer">
+            </div>Liquity 是一种去中心化的借贷协议，允许您以用作抵押的以太币提取无息贷款。 贷款以 LUSD（一种与美元挂钩的稳定币）支付，并且需要保持 110% 的最低抵押率。]]></description>
+</item></channel>
+</rss>

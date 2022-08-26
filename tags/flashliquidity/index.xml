@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>FlashLiquidity - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/flashliquidity/</link>
+        <description>FlashLiquidity - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/flashliquidity/" rel="self" type="application/rss+xml" /><item>
+    <title>FlashLiquidity</title>
+    <link>https://www.metabd.cc/nfts/flashliquidity/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/flashliquidity/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/flashliquidity.png" referrerpolicy="no-referrer">
+            </div>FlashLiquidity 是运行在 Polygon 主网上的去中心化 AMM 交易所。 该协议的主要区别在于，流动性提供者可以获得交易量的 0.25% 的费用以及与保持流动性池平衡相关的套利利润。 在 FlashLiquidity 上]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dice Planet - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dice-planet/</link>
+        <description>Dice Planet - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dice-planet/" rel="self" type="application/rss+xml" /><item>
+    <title>Dice Planet</title>
+    <link>https://www.metabd.cc/nfts/dice-planet/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dice-planet/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dice-planet.png" referrerpolicy="no-referrer">
+            </div>骰子星球是一款链上骰子游戏。 Dice Planet 基于 ThunderCore 上的随机数生成器，完全建立在链上。完全公平和有趣。 我们是 Mini Planet Dice，我们很高兴推出我们的第一个 Kic]]></description>
+</item></channel>
+</rss>

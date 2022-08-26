@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>dev DeFi - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dev-defi/</link>
+        <description>dev DeFi - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dev-defi/" rel="self" type="application/rss+xml" /><item>
+    <title>dev DeFi</title>
+    <link>https://www.metabd.cc/nfts/dev-defi/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dev-defi/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dev-defi.png" referrerpolicy="no-referrer">
+            </div>#dev DeFi 旨在帮助用户以低借贷利率借入 BSC 资产并为其抵押品收取利息。 #dev DeFi 在币安智能链上完全去中心化和开源。去中心化治理将很快发生，其中 DEV 代币将在治理]]></description>
+</item></channel>
+</rss>

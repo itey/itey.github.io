@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DeFi Plaza - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/defi-plaza/</link>
+        <description>DeFi Plaza - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/defi-plaza/" rel="self" type="application/rss+xml" /><item>
+    <title>DeFi Plaza</title>
+    <link>https://www.metabd.cc/nfts/defi-plaza/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/defi-plaza/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/defi-plaza.png" referrerpolicy="no-referrer">
+            </div>DeFi Plaza 是一家低成本交易所，为 120 对交易量最大的 DeFi 代币提供一流的兑换成本。 高度集成的设计使所有 120 个交易对的 Gas 成本最低，且交易所费用低至 0.1%。 尽]]></description>
+</item></channel>
+</rss>

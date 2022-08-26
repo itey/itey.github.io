@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Augmented-Reality - 元宇宙游戏 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/games/augmented-reality/</link>
+        <description>Augmented-Reality - 元宇宙游戏 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 10 Aug 2022 08:47:36 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/games/augmented-reality/" rel="self" type="application/rss+xml" /><item>
+    <title>全部游戏</title>
+    <link>https://www.metabd.cc/pgames/all/</link>
+    <pubDate>Wed, 10 Aug 2022 08:47:36 &#43;0800</pubDate><author>
+        <name>斗极元宇宙</name>
+    </author><guid>https://www.metabd.cc/pgames/all/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

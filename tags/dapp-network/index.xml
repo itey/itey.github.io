@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DAPP Network - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dapp-network/</link>
+        <description>DAPP Network - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dapp-network/" rel="self" type="application/rss+xml" /><item>
+    <title>DAPP Network</title>
+    <link>https://www.metabd.cc/nfts/dapp-network/</link>
+    <pubDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dapp-network/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dapp-network.png" referrerpolicy="no-referrer">
+            </div>DAPP 网络是一个通用的桥接框架和强大的服务中间件，对于区块链互操作性和现代去中心化应用程序 (dApp) 至关重要。 DAPP Network 的桥接技术可以通过可定制的共识和激励结]]></description>
+</item></channel>
+</rss>

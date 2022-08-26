@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DeHive - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dehive/</link>
+        <description>DeHive - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dehive/" rel="self" type="application/rss+xml" /><item>
+    <title>DeHive</title>
+    <link>https://www.metabd.cc/nfts/dehive/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dehive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dehive.png" referrerpolicy="no-referrer">
+            </div>DeHive 是一种多链资产管理协议，可提供代币化投资组合的智能资产管理。 DeHive 去中心化协议通过将它们累积到集群中来提供顶级的 DeFi 资产管理。因此，它有助于扩大]]></description>
+</item></channel>
+</rss>

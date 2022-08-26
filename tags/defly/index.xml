@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Defly - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/defly/</link>
+        <description>Defly - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/defly/" rel="self" type="application/rss+xml" /><item>
+    <title>Defly</title>
+    <link>https://www.metabd.cc/nfts/defly/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/defly/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/defly.png" referrerpolicy="no-referrer">
+            </div>**什么是飞飞？**一个移动应用程序中的图表、交换、统计数据，具有完整的 Algorand 可组合性。我们将传统加密交易和实时投资组合监控的最佳功能与 DEFI 的独立]]></description>
+</item></channel>
+</rss>

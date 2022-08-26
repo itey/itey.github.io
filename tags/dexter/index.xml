@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dexter - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dexter/</link>
+        <description>Dexter - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dexter/" rel="self" type="application/rss+xml" /><item>
+    <title>Dexter</title>
+    <link>https://www.metabd.cc/nfts/dexter/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dexter/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dexter.png" referrerpolicy="no-referrer">
+            </div>Dexter 是 Tezos 区块链上的去中心化、非托管交易所，使用户能够将他们的 XTZ（Tezos 的本地货币）与基于 Tezos FA1.2 代币标准构建的其他代币进行交换。 Dexter 还允许任]]></description>
+</item></channel>
+</rss>

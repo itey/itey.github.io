@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>[Day] Rings - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/day-rings/</link>
+        <description>[Day] Rings - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 15 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/day-rings/" rel="self" type="application/rss+xml" /><item>
+    <title>[Day] Rings</title>
+    <link>https://www.metabd.cc/nfts/day-rings/</link>
+    <pubDate>Mon, 15 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/day-rings/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/day-rings.png" referrerpolicy="no-referrer">
+            </div>[Day] Rings 的第一轮开始于玩家将他的赌注存入空筹码。赌注必须等于或高于 1 Finney (0.001 Ether)。 从他或她的交易 - depositStack() 调用 - 在某个区块 X 中得到确认的那一刻起，]]></description>
+</item></channel>
+</rss>

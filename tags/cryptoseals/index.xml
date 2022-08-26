@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CryptoSeals - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/cryptoseals/</link>
+        <description>CryptoSeals - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 12 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/cryptoseals/" rel="self" type="application/rss+xml" /><item>
+    <title>CryptoSeals</title>
+    <link>https://www.metabd.cc/nfts/cryptoseals/</link>
+    <pubDate>Fri, 12 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/cryptoseals/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/cryptoseals.png" referrerpolicy="no-referrer">
+            </div>CRYPTOSEAL 是 ERC721 不可替代的代币。将仅提供 9999 个密封件。每个印章均由计算机生成并具有自己的属性。密封件和属性存储在 IPFS + ARWEAVE 上。密封件有不同的类型，每一种都代]]></description>
+</item></channel>
+</rss>

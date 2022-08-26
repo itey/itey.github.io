@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BlockBank - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/blockbank/</link>
+        <description>BlockBank - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 10 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/blockbank/" rel="self" type="application/rss+xml" /><item>
+    <title>BlockBank</title>
+    <link>https://www.metabd.cc/nfts/blockbank/</link>
+    <pubDate>Wed, 10 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/blockbank/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blockbank.png" referrerpolicy="no-referrer">
+            </div>CeFi DeFi 银行业务 Robo-Advisory 托管钱包将服务于许多不同的目的，例如质押、存储资产、通过 API 交易到 CEX、为资产提供保险、借贷、法币开/关（链下/链上）以及 KYC/AML 非]]></description>
+</item></channel>
+</rss>

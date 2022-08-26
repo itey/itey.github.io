@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>GeekPandaz - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/geekpandaz/</link>
+        <description>GeekPandaz - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/geekpandaz/" rel="self" type="application/rss+xml" /><item>
+    <title>GeekPandaz</title>
+    <link>https://www.metabd.cc/nfts/geekpandaz/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/geekpandaz/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/geekpandaz.png" referrerpolicy="no-referrer">
+            </div>GeekPandaz 是 Immutable X 上 1,500 个独特 NFT 的 Genesis 集合，这是一种提供无气体铸造和交易的第 2 层以太坊解决方案。 每只熊猫都值得一看 - 精心设计，配备配件，随时准备接管 Pandaria 世界]]></description>
+</item></channel>
+</rss>

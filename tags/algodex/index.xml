@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Algodex - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/algodex/</link>
+        <description>Algodex - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/algodex/" rel="self" type="application/rss+xml" /><item>
+    <title>Algodex</title>
+    <link>https://www.metabd.cc/nfts/algodex/</link>
+    <pubDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>kiki</name><uri>https://www.metabd.cc/authors/kiki</uri></author><guid>https://www.metabd.cc/nfts/algodex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/algodex.png" referrerpolicy="no-referrer">
+            </div>Algodex 是一个点对点市场，允许用户在称为 Algorand 标准资产 (ASA) 的 Algorand 区块链上交易用户制作的代币。 Algorand 标准资产由用户和公司创建，用于服务于软件实用程序、资产表示、]]></description>
+</item></channel>
+</rss>

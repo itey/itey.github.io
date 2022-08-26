@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dfyn Network - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dfyn-network/</link>
+        <description>Dfyn Network - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dfyn-network/" rel="self" type="application/rss+xml" /><item>
+    <title>Dfyn Network</title>
+    <link>https://www.metabd.cc/nfts/dfyn-network/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dfyn-network/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dfyn-network.png" referrerpolicy="no-referrer">
+            </div>Dfyn 是目前在 Polygon 网络上运行的多链 AMM DEX。各种链上的 Dfyn 节点充当由路由器协议启用的跨链流动性超级网格的流动性入口和出口点。 跨链桥梁是生态系统增长的]]></description>
+</item></channel>
+</rss>

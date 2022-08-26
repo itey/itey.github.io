@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DappBuilder - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dappbuilder/</link>
+        <description>DappBuilder - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dappbuilder/" rel="self" type="application/rss+xml" /><item>
+    <title>DappBuilder</title>
+    <link>https://www.metabd.cc/nfts/dappbuilder/</link>
+    <pubDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dappbuilder/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dappbuilder.png" referrerpolicy="no-referrer">
+            </div>无需编码即可在几分钟内构建您自己的 DApp 或在您最喜欢的区块链网络上创建一个代币。 将 UI 添加到您的 DApp 并开始使用它，而无需一行代码。 支持多个网络，并且]]></description>
+</item></channel>
+</rss>

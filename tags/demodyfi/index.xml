@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Demodyfi - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/demodyfi/</link>
+        <description>Demodyfi - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/demodyfi/" rel="self" type="application/rss+xml" /><item>
+    <title>Demodyfi</title>
+    <link>https://www.metabd.cc/nfts/demodyfi/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/demodyfi/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/demodyfi.png" referrerpolicy="no-referrer">
+            </div>该协议利用 Moonbeam 的平行链智能合约互操作性，而 Substrate 框架作为基础层。结合这一点，它可以在 Polkadot 上构建，进一步使其与 EVM 兼容，并使用以太坊堆栈中可用的工具部署]]></description>
+</item></channel>
+</rss>

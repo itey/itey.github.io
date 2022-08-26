@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DRC Vault - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/drc-vault/</link>
+        <description>DRC Vault - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/drc-vault/" rel="self" type="application/rss+xml" /><item>
+    <title>DRC Vault</title>
+    <link>https://www.metabd.cc/nfts/drc-vault/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/drc-vault/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/drc-vault.png" referrerpolicy="no-referrer">
+            </div>DRC Vault 是专为 DRC 持有者创建的安全非托管和 100% 去中心化应用程序。在 DRC Vault 中持有的 DRC 代币完全由用户控制和拥有，其他任何人都无法访问这些资金。 DRC Vault 具有直观]]></description>
+</item></channel>
+</rss>

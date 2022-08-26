@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Arbitrum - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/arbitrum/</link>
+        <description>Arbitrum - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/arbitrum/" rel="self" type="application/rss+xml" /><item>
+    <title>Arbitrum</title>
+    <link>https://www.metabd.cc/nfts/arbitrum/</link>
+    <pubDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/arbitrum/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/arbitrum.png" referrerpolicy="no-referrer">
+            </div>Arbitrum 是一套以太坊扩展解决方案，可实现高吞吐量、低成本的智能合约，同时保持无需信任的安全性。 Arbitrum 具有三种模式：AnyTrust Channels、A]]></description>
+</item></channel>
+</rss>

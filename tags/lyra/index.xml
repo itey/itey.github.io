@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lyra - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lyra/</link>
+        <description>Lyra - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lyra/" rel="self" type="application/rss+xml" /><item>
+    <title>Lyra</title>
+    <link>https://www.metabd.cc/nfts/lyra/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/lyra/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lyra.png" referrerpolicy="no-referrer">
+            </div>用于交易期权和自动提供流动性的协议。 Lyra 是一种基于以太坊的交易期权开放协议。 Lyra 允许交易者买卖使用第一个基于市场的、倾斜调整的定价模型准确定价的]]></description>
+</item></channel>
+</rss>

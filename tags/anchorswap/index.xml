@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AnchorSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/anchorswap/</link>
+        <description>AnchorSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 04 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/anchorswap/" rel="self" type="application/rss+xml" /><item>
+    <title>AnchorSwap</title>
+    <link>https://www.metabd.cc/nfts/anchorswap/</link>
+    <pubDate>Thu, 04 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>kiki</name><uri>https://www.metabd.cc/authors/kiki</uri></author><guid>https://www.metabd.cc/nfts/anchorswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/anchorswap.png" referrerpolicy="no-referrer">
+            </div>AnchorSwap 是一个运行在币安智能链上的自动流动性获取收益农场和 AMM 去中心化交易所，具有众多创意功能，让用户通过质押获得高 APY。 AnchorSwap 是公平启动的，没有预售]]></description>
+</item></channel>
+</rss>

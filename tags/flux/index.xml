@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Flux - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/flux/</link>
+        <description>Flux - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/flux/" rel="self" type="application/rss+xml" /><item>
+    <title>Flux</title>
+    <link>https://www.metabd.cc/nfts/flux/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boodArno</name><uri>https://www.metabd.cc/authors/boodarno</uri></author><guid>https://www.metabd.cc/nfts/flux/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/flux.png" referrerpolicy="no-referrer">
+            </div>关于通量 FLUX 由零一团队开发。 FLUX 是一种去中心化、安全、非托管的数字加密资产抵押借贷协议。在 FLUX 的货币市场中，用户可以存入特定的加密资产赚取利息，也]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>EOSLUCK - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/eosluck/</link>
+        <description>EOSLUCK - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/eosluck/" rel="self" type="application/rss+xml" /><item>
+    <title>EOSLUCK</title>
+    <link>https://www.metabd.cc/nfts/eosluck/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/eosluck/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/eosluck.png" referrerpolicy="no-referrer">
+            </div>Luckchain 是第一个基于 EOS 的去中心化体育博彩平台，支持 EOS 区块的哈希以及足球、篮球、排球、棒球、网球、赛马、拳击等大部分体育赛事的投注。投注 LuckChain 将获得 1 EOS]]></description>
+</item></channel>
+</rss>

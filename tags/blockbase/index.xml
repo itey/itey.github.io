@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BlockBase - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/blockbase/</link>
+        <description>BlockBase - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 10 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/blockbase/" rel="self" type="application/rss+xml" /><item>
+    <title>BlockBase</title>
+    <link>https://www.metabd.cc/nfts/blockbase/</link>
+    <pubDate>Wed, 10 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/blockbase/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blockbase.png" referrerpolicy="no-referrer">
+            </div>数据库不安全。 数十亿条记录被盗、暗中更改或永远丢失。 BlockBase 通过设计以完整性、不变性、可问责性、可审计性、可用性来保护您的数据。 这些品质将成为未来]]></description>
+</item></channel>
+</rss>

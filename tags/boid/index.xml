@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Boid - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/boid/</link>
+        <description>Boid - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 09 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/boid/" rel="self" type="application/rss+xml" /><item>
+    <title>Boid</title>
+    <link>https://www.metabd.cc/nfts/boid/</link>
+    <pubDate>Tue, 09 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>ovorr</name><uri>https://www.metabd.cc/authors/ovorr</uri></author><guid>https://www.metabd.cc/nfts/boid/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/boid.png" referrerpolicy="no-referrer">
+            </div>Boid 是一个 EOS 去中心化应用程序 (dApp)。 Boid 的核心是希望让所有人都能享受到区块链技术的好处。 Boid 作为网关，降低了非技术用户直接参与区块链和分布式]]></description>
+</item></channel>
+</rss>

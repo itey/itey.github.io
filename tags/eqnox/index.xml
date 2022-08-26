@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>EQNOX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/eqnox/</link>
+        <description>EQNOX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/eqnox/" rel="self" type="application/rss+xml" /><item>
+    <title>EQNOX</title>
+    <link>https://www.metabd.cc/nfts/eqnox/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/eqnox/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/eqnox.png" referrerpolicy="no-referrer">
+            </div>EQNOX 是一个不可变的智能合约，没有任何所有者，不能被审查或停止。它是一种通胀质押代币，每天通过利息将通胀分配给活跃质押。通货膨胀从每天 1.8% 开始，随]]></description>
+</item></channel>
+</rss>

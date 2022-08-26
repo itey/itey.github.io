@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Loot Craft - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/loot-craft/</link>
+        <description>Loot Craft - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/loot-craft/" rel="self" type="application/rss+xml" /><item>
+    <title>Loot Craft</title>
+    <link>https://www.metabd.cc/nfts/loot-craft/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/loot-craft/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/loot-craft.png" referrerpolicy="no-referrer">
+            </div>LootCraft 是 bsc 上第一个受 Loot 和 LootRarity 启发的项目。任何人都可以创建像 LootRarity 这样的召唤师，没有限制，不需要任何费用（除了 gas）。每天一次，召唤师可以冒险，赚取 250]]></description>
+</item></channel>
+</rss>

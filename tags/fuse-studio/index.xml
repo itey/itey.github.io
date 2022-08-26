@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Fuse Studio - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/fuse-studio/</link>
+        <description>Fuse Studio - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/fuse-studio/" rel="self" type="application/rss+xml" /><item>
+    <title>Fuse Studio</title>
+    <link>https://www.metabd.cc/nfts/fuse-studio/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/fuse-studio/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/fuse-studio.png" referrerpolicy="no-referrer">
+            </div>一个用户友好的应用程序，允许任何人在 Fuse Network 上启动支付系统。这包括使用 ERC-20 标准发行补充货币，作为主要交换手段或创建激励系统。 Fuse Studio 具有强大的工具，允]]></description>
+</item></channel>
+</rss>

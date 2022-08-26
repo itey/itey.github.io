@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DAOventures - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/daoventures/</link>
+        <description>DAOventures - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/daoventures/" rel="self" type="application/rss+xml" /><item>
+    <title>DAOventures</title>
+    <link>https://www.metabd.cc/nfts/daoventures/</link>
+    <pubDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/daoventures/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/daoventures.png" referrerpolicy="no-referrer">
+            </div>DAOventures 是一家 DeFi 基金经理，为投资者提供最先进的盈利 ETF 策略。自动化 DeFi 投资组合策略的首选投资平台，无论您是 hodler、DeFi 新手还是机构基金经理。]]></description>
+</item></channel>
+</rss>

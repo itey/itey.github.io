@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Allbridge - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/allbridge/</link>
+        <description>Allbridge - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/allbridge/" rel="self" type="application/rss+xml" /><item>
+    <title>Allbridge</title>
+    <link>https://www.metabd.cc/nfts/allbridge/</link>
+    <pubDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>kiki</name><uri>https://www.metabd.cc/authors/kiki</uri></author><guid>https://www.metabd.cc/nfts/allbridge/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/allbridge.png" referrerpolicy="no-referrer">
+            </div>Allbridge 是一种在不同网络之间转移资产的简单、现代且可靠的方式。 它是 EVM 和非 EVM 兼容区块链之间的桥梁，旨在涵盖 L2 解决方案和未来的 NFT 转移。 Allbridge 的使命是让区块]]></description>
+</item></channel>
+</rss>

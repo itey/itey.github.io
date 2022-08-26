@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Arkadiko - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/arkadiko/</link>
+        <description>Arkadiko - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 04 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/arkadiko/" rel="self" type="application/rss+xml" /><item>
+    <title>Arkadiko</title>
+    <link>https://www.metabd.cc/nfts/arkadiko/</link>
+    <pubDate>Thu, 04 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>sadfrog</name><uri>https://www.metabd.cc/authors/sadfrog</uri></author><guid>https://www.metabd.cc/nfts/arkadiko/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/arkadiko.png" referrerpolicy="no-referrer">
+            </div>Arkadiko 是一种去中心化的非托管流动性协议，用户可以在其中抵押他们的资产并铸造一种名为 USDA 的稳定币。这使储户能够以软锚定美元稳定币的形式获得更多的流动]]></description>
+</item></channel>
+</rss>

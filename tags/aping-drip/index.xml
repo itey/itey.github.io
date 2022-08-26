@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Aping DRIP - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/aping-drip/</link>
+        <description>Aping DRIP - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/aping-drip/" rel="self" type="application/rss+xml" /><item>
+    <title>Aping DRIP</title>
+    <link>https://www.metabd.cc/nfts/aping-drip/</link>
+    <pubDate>Wed, 03 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/aping-drip/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/aping-drip.png" referrerpolicy="no-referrer">
+            </div>这是一个简单的智能合约，充当 DRIP/BUSD 奖励池，只要奖励池中还有 DRIP/BUSD，每天都会返回池中 6%* 的 DRIP/BUSD ！用户可以选择收集（拿走他们的 DRIP/BUSD 奖励）或用他]]></description>
+</item></channel>
+</rss>

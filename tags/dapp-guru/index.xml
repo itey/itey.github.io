@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dapp Guru - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dapp-guru/</link>
+        <description>Dapp Guru - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dapp-guru/" rel="self" type="application/rss+xml" /><item>
+    <title>Dapp Guru</title>
+    <link>https://www.metabd.cc/nfts/dapp-guru/</link>
+    <pubDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dapp-guru/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dapp-guru.png" referrerpolicy="no-referrer">
+            </div>DappGuru 是由专业人士创立的基于 Tron 区块链智能合约的投资平台。我们利用区块链技术并建立了由独立审计公司运行的代码审计。我们用户的资金不受任何第三方控制]]></description>
+</item></channel>
+</rss>

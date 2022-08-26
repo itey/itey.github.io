@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BetHorde - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/bethorde/</link>
+        <description>BetHorde - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 08 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/bethorde/" rel="self" type="application/rss+xml" /><item>
+    <title>BetHorde</title>
+    <link>https://www.metabd.cc/nfts/bethorde/</link>
+    <pubDate>Mon, 08 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/bethorde/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/bethorde.png" referrerpolicy="no-referrer">
+            </div>BetHorde：真正去中心化的投注。 不可信。 没有神谕。 可证明是随机的。 任何 ETH 钱包都可以下注或接收赌注。 使用公钥加密（RSA 签名）创建的随机]]></description>
+</item></channel>
+</rss>

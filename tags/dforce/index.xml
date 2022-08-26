@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>dForce - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dforce/</link>
+        <description>dForce - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dforce/" rel="self" type="application/rss+xml" /><item>
+    <title>dForce</title>
+    <link>https://www.metabd.cc/nfts/dforce/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dforce/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dforce.png" referrerpolicy="no-referrer">
+            </div>dForce 倡导构建一个集成且可互操作的开放金融协议矩阵，涵盖资产（稳定币、合成资产、收益代币等）、借贷（全球流动性池）和交易（聚合器和 AMM）。我们]]></description>
+</item></channel>
+</rss>

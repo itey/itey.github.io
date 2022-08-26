@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CoFiX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/cofix/</link>
+        <description>CoFiX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 15 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/cofix/" rel="self" type="application/rss+xml" /><item>
+    <title>CoFiX</title>
+    <link>https://www.metabd.cc/nfts/cofix/</link>
+    <pubDate>Mon, 15 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/cofix/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/cofix.png" referrerpolicy="no-referrer">
+            </div>CoFiX 是一个社区驱动的 DeFi 项目。 CoFiX 是一种先进的自动化做市协议。 它从去中心化的价格预言机获取市场价格。 此外，它具有完善的风险控制机制。 设计原则如下。]]></description>
+</item></channel>
+</rss>

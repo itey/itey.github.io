@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ETHLend - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ethlend/</link>
+        <description>ETHLend - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ethlend/" rel="self" type="application/rss+xml" /><item>
+    <title>ETHLend</title>
+    <link>https://www.metabd.cc/nfts/ethlend/</link>
+    <pubDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/ethlend/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ethlend.png" referrerpolicy="no-referrer">
+            </div>基于区块链的去中心化点对点借贷平台，允许使用您的比特币、以太坊和其他 ERC20 代币作为抵押品。 当 Aave 协议于今年 1 月推出时，论文是想办法解锁 DeFi 中的锁定价]]></description>
+</item></channel>
+</rss>

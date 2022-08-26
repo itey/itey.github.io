@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AtomicAssets - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/atomicassets/</link>
+        <description>AtomicAssets - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 05 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/atomicassets/" rel="self" type="application/rss+xml" /><item>
+    <title>AtomicAssets</title>
+    <link>https://www.metabd.cc/nfts/atomicassets/</link>
+    <pubDate>Fri, 05 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/atomicassets/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/atomicassets.png" referrerpolicy="no-referrer">
+            </div>AtomicAssets 是 eosio 区块链技术上的不可替代代币 (NFT) 的标准。 任何人都可以利用 AtomicAsset 标准来标记和创建数字资产。 NFT 数据和所有权保存在区块链上并且不可变。 用户没有 RAM 成本]]></description>
+</item></channel>
+</rss>

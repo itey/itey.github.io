@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LovePot - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lovepot/</link>
+        <description>LovePot - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lovepot/" rel="self" type="application/rss+xml" /><item>
+    <title>LovePot</title>
+    <link>https://www.metabd.cc/nfts/lovepot/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/lovepot/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lovepot.png" referrerpolicy="no-referrer">
+            </div>LovePot 是一种无损“累积奖金”池，类似于 Pool Together 开创的服务。用户在初始质押期间（例如前 24 小时）将代币质押到 LovePot。在这个初始阶段结束时，Pot]]></description>
+</item></channel>
+</rss>

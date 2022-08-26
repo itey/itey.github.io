@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AuroraSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/auroraswap/</link>
+        <description>AuroraSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 05 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/auroraswap/" rel="self" type="application/rss+xml" /><item>
+    <title>AuroraSwap</title>
+    <link>https://www.metabd.cc/nfts/auroraswap/</link>
+    <pubDate>Fri, 05 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>crazyxuanshao</name><uri>https://www.metabd.cc/authors/crazyxuanshao</uri></author><guid>https://www.metabd.cc/nfts/auroraswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/auroraswap.png" referrerpolicy="no-referrer">
+            </div>AuroraSwap 的设计基于 Uniswap 恒积自动做市商 (AMM)。 在 AMM 中，流动性提供者只需存入一对代币，算法就会自动为这对代币做市。 交易者可以轻松地在 AMM 中的代币之间进]]></description>
+</item></channel>
+</rss>

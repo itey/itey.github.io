@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dappino - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dappino/</link>
+        <description>Dappino - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dappino/" rel="self" type="application/rss+xml" /><item>
+    <title>Dappino</title>
+    <link>https://www.metabd.cc/nfts/dappino/</link>
+    <pubDate>Sat, 13 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dappino/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dappino.png" referrerpolicy="no-referrer">
+            </div>Dappino 是在 Binance 和 Polygon 区块链上作为分布式应用程序 (DAPP) 运行的一组游戏。 掷骰子 翻转硬币 为这些游戏提供动力的智能合约已经过验证，可以从以上页面查看。 Dappino 使用 ChainLink VRF]]></description>
+</item></channel>
+</rss>

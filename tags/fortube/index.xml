@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ForTube - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/fortube/</link>
+        <description>ForTube - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/fortube/" rel="self" type="application/rss+xml" /><item>
+    <title>ForTube</title>
+    <link>https://www.metabd.cc/nfts/fortube/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boodArno</name><uri>https://www.metabd.cc/authors/boodarno</uri></author><guid>https://www.metabd.cc/nfts/fortube/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/fortube.png" referrerpolicy="no-referrer">
+            </div>ForTube 是一种基于流动资金池的借贷协议，任何人都可以通过它提供数字资产来赚取利息或以抵押品借款。它支持广泛的数字资产。借贷利率经过算法调整，以激励]]></description>
+</item></channel>
+</rss>

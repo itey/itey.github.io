@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>FlameDeFi - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/flamedefi/</link>
+        <description>FlameDeFi - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/flamedefi/" rel="self" type="application/rss+xml" /><item>
+    <title>FlameDeFi</title>
+    <link>https://www.metabd.cc/nfts/flamedefi/</link>
+    <pubDate>Wed, 17 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/flamedefi/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/flamedefi.png" referrerpolicy="no-referrer">
+            </div>FlameDefi 是一个基于 Tezos 区块链的项目，它结合了： 经典 DEX 单产农业 游戏 FlameDeFi 支持 Tezos 区块链上的其他项目。 Tezos 上的任何项目都可以将他们的农场添加到我们的 SpaceFarm 中，从而显]]></description>
+</item></channel>
+</rss>
