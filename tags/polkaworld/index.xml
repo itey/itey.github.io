@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PolkaWorld - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/polkaworld/</link>
+        <description>PolkaWorld - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/polkaworld/" rel="self" type="application/rss+xml" /><item>
+    <title>PolkaWorld</title>
+    <link>https://www.metabd.cc/navigation/polkaworld/</link>
+    <pubDate>Wed, 20 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/polkaworld/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/polkaworld.jpg" referrerpolicy="no-referrer">
+            </div>PolkaWorld 是波卡 Polkadot 开发者和发烧友社区，由跨链网关 ChainX 和全球区块链知识服务商 HashBang 共同建设。这里有关于波卡和 Web3 生态最全面的深度文章、技术教程、项目动态等，带]]></description>
+</item></channel>
+</rss>

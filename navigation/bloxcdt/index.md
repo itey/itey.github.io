@@ -1,5 +1,3 @@
-# 
-
 # Blox(CDT)
 
 1.简介Blox（旧名：CoinDash）是第一款全面支持用户进行模拟资产追踪的平台，用户可以手动添加充币，提币，买入，卖出，转账等行为，以实现记录最真实精确或是模拟操作的资产追踪。CDT用于访问Blox平台的各种功能和服务。CDT还可以作为公司和业务的打折优惠。
@@ -13,4 +11,3 @@
 3.评述CoinDash是一个加密货币的资产管理平台，通过CoinDash平台，用户可以将多个钱包的公钥以及多个交易所账户整合进来，从而看到实时的货币价格、资产表现、资产配置等重要信息，以便优化投资，改善投资决策。相关链接：https://www.blox.io/
 http://www.qukuaiwang.com.cn/szhb/2231.html#jj
 https://www.fn.com/project/blox/introduction/
-

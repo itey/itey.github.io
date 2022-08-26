@@ -1,5 +1,3 @@
-# 
-
 # Bee Partners
 
 Bee Partners 成立于 2008 年 4 月，是一家投资于概念期和种子期的风险投资机构。
@@ -17,4 +15,3 @@ Berolzheimer管理着一个面向校友和创始人的俱乐部CalFounders，该
 除了增强校友之间的联系，CalFounders还提升了美国校园中创业与科技发展的透明度，而这一生态系统之前长期为传统投资人所忽视。
 
 在本轮投资中，Bee Partners所获资金的很大一部分都来自加州伯克利大学校友及CalFounders的成员，至于他们投资的具体数额，Berolzheimer表示不便透露。“他们和我们一样，对创业充满激情。”Berolzheimer说。
-

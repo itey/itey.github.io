@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Libravista - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/libravista/</link>
+        <description>Libravista - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/libravista/" rel="self" type="application/rss+xml" /><item>
+    <title>Libravista</title>
+    <link>https://www.metabd.cc/navigation/libravista/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/navigation/libravista/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/libravista.png" referrerpolicy="no-referrer">
+            </div>Libravista提供Libra有关网络的实时和历史数据。 LibraVista 自称全球首家 Libra 测试网区块浏览器，可观测全部交易信息，同时基于 Libra 的钱包也在开发中]]></description>
+</item></channel>
+</rss>

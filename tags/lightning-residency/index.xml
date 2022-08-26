@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lightning Residency - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lightning-residency/</link>
+        <description>Lightning Residency - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lightning-residency/" rel="self" type="application/rss+xml" /><item>
+    <title>Lightning Residency</title>
+    <link>https://www.metabd.cc/navigation/lightning-residency/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/navigation/lightning-residency/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lightning-residency.png" referrerpolicy="no-referrer">
+            </div>Chaincode Labs 于 2018 年 10 月在纽约举办的专注于 Lightning 应用开发的交流活动，邀请 12 位应用开发者用一周时间向专家学习如何在 Lightning Network 构建和开发自己的比特币应用。 14 位应用程]]></description>
+</item></channel>
+</rss>

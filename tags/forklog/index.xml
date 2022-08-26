@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ForkLog - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/forklog/</link>
+        <description>ForkLog - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/forklog/" rel="self" type="application/rss+xml" /><item>
+    <title>ForkLog</title>
+    <link>https://www.metabd.cc/navigation/forklog/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/forklog/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/forklog.jpg" referrerpolicy="no-referrer">
+            </div>ForkLog 始于 2014 年，专门提供比特币、区块链和去中心化技术的信息资源。 ForkLog 进行全面分析，以帮助用户了解加密货币中正在发生的事情以及为什么它很重要。自 2015 年]]></description>
+</item></channel>
+</rss>

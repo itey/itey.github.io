@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cryptium Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/cryptium-labs/</link>
+        <description>Cryptium Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/cryptium-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>Cryptium Labs</title>
+    <link>https://www.metabd.cc/navigation/cryptium-labs/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/cryptium-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/cryptium-labs.jpg" referrerpolicy="no-referrer">
+            </div>Cryptium Labs 作为 Tezos、Cosmos 或 Polkadot 等权益证明区块链提供服务的系统，提供安全且高度可用的数字签名。 除作为验证者和为社区希望使用的 PoS 区块链提供]]></description>
+</item></channel>
+</rss>

@@ -1,5 +1,3 @@
-# 
-
 # Chronobank(TIME)
 
 ### 一、项目简介
@@ -31,4 +29,3 @@ http://www.120btc.com/baike/coin/8642.html
 ### 关于 Chrono.tech
 
 Chrono.tech 正在建立一个全面的人力资源和财务生态系统，帮助减少或消除工人和雇主在招聘和支付流程方面的障碍。
-

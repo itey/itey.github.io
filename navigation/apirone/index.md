@@ -1,5 +1,3 @@
-# 
-
 # apirone
 
 一款功能较全的比特币浏览器，支持隔离见证，根据coinbase的信息来发布公告
@@ -13,4 +11,3 @@
 Telegram Bot & Messenger使用区块链 API 构建出色的应用。
 
 慈善与捐赠免费收款
-

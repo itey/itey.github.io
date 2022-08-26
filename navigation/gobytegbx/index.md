@@ -1,5 +1,3 @@
-# 
-
 # GoByte(GBX)
 
 GoByte（GBX）是一种创新的基于Dash的加密货币。GoByte是数字货币的一种形式，通过密码保护，并通过去中心化和先进的挖矿市场发行。这是一个加强和进一步发展的版本，采用masternode技术，提供50％奖励，近乎即时和安全的支付以及匿名交易。GoByte具有快速增长和扩张的巨大潜力。基于一套完整的工作和Masternode系统，每个人都可以访问，它确保图形处理单元（GPU）矿工和 Masternode持有者获得公平和稳定的投资回报。
@@ -17,4 +15,3 @@ GoByte Pay 适用于个人和商业应用， 使使用加密货币进行商品�
 GoByte Pay交易费用低（价格低于信用卡，PayPal和Square），平均每笔交易处理时间为1.3秒，并且集成了工具，功能强大，可轻松用于想要通过其进行支付的企业及其客户GoByte（GBX），比特币（BTC），以太坊（ETH）和其他加密货币。
 
 GoByte Masternode持有者将获得GBX硬币作为块状奖励，以验证交易并帮助保护GoByte网络。简而言之，作为对保护网络和验证交易的奖励，GoByte Masternodes实际上为其所有者铸造了新的GBX硬币。所赚取的GBX硬币可以被花费，交易，清算或累积到新的主节点中以增加收益。此外，GoByte Masternode的持有者获得对GoByte治理中的提案进行投票的权利（每个Masternode一次）。另外，GoByte Masternode持有者可以免费提取GBX硬币。
-

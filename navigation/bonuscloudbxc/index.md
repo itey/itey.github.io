@@ -1,7 +1,5 @@
 # 
 
-# 
-
 ﻿weight: 
 title: "BonusCloud(BXC)"
 description: "BonusCloud致力于打造一个去中心化的、可信任的、结合区块链与云计算技术的、全球化的基础设施平台，并构建一个基于此的开放式共享生态"
@@ -37,4 +35,3 @@ BonusCloud中的不同工作人员将根据其不同的存储和带宽能力分�
 ![highlight4.ffa55eb9](highlight4.ffa55eb9.png)
 
 BonusCloud为客户提供了一个开放和值得信赖的环境，以进行有价值的计算能力交换。
-

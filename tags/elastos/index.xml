@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Elastos - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/elastos/</link>
+        <description>Elastos - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/elastos/" rel="self" type="application/rss+xml" /><item>
+    <title>Elastos</title>
+    <link>https://www.metabd.cc/navigation/elastos/</link>
+    <pubDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/elastos/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/elastos.jpg" referrerpolicy="no-referrer">
+            </div>亦来云（ELA）官方区块浏览器，可搜索出交易地址、排行榜、区块大小、节点状态等信息 亦来云是全球领先的开源解决方案提供商，不仅采用区块链技术，]]></description>
+</item></channel>
+</rss>

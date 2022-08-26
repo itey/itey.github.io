@@ -1,5 +1,3 @@
-# 
-
 # BCDT
 
 BCDiploma的目标是成为文凭证书的参考点。BCDT（Blockchain Certified Data Token）代币旨在服务于BCDiploma平台，这是一种基于区块链的全新的数据认证平台。BCDT是一种获得平台服务的手段。
@@ -13,4 +11,3 @@ BCDT币全称Blockchain Certified Data Token，是数据认证平台BCDiploma的
 BCDiploma的目标是通过将以太坊技术与密码学相结合，以最简单、最安全和可持续的方式进行文凭认证。BCDiploma为高等教育机构开发了一个DApp，使他们能够在以太坊上颁发学位。BCDiploma允许毕业生在其一生中通过提供一个简单的URL来证明其文凭的真实性。
 
 BCDT团队来自法国，从2017年入选第五届法中委员会中法合作团队创新奖决赛后，为了适应中国特有的交易体系，与中国特有的应用场景进行适应，加入了中国专家。BCDiploma在2018年9月正式投放市场后，始终强调应用落地，在亚洲地区已经与中国大陆及台湾的高等院校展开合作，并且与中国的省市地区开始洽谈。日前，BCDiploma还获得微软为新技术创业者提供的孵化资金支持，这些都为BCDiploma的长期发展奠定了基础。
-

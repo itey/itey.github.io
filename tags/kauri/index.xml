@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kauri - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/kauri/</link>
+        <description>Kauri - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 18 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/kauri/" rel="self" type="application/rss+xml" /><item>
+    <title>Kauri</title>
+    <link>https://www.metabd.cc/navigation/kauri/</link>
+    <pubDate>Mon, 18 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/kauri/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kauri.jpg" referrerpolicy="no-referrer">
+            </div>Kauri 使社区能够建立自己的集体知识库。社区成员可以有效地梳理基础资源，帮助彼此更快地学习和构建，特别是对于新兴或快速发展的技术。]]></description>
+</item></channel>
+</rss>

@@ -1,5 +1,3 @@
-# 
-
 # Bezogia
 
 
@@ -11,6 +9,5 @@ Bezogis 的外表可能看起来很可爱，但在那些可爱的小狗眼睛后
 Bezogis.nft 是一个 NFT（非同质代币）集合。存储在区块链上的数字艺术品集合。
 
 总共有 32 个 Bezogis.nft NFT。目前 4 位所有者的钱包中至少有一个 Bezogis.nft NTF。
-
 
 

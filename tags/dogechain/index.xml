@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DogeChain - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dogechain/</link>
+        <description>DogeChain - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dogechain/" rel="self" type="application/rss+xml" /><item>
+    <title>DogeChain</title>
+    <link>https://www.metabd.cc/navigation/dogechain/</link>
+    <pubDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/dogechain/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dogechain.png" referrerpolicy="no-referrer">
+            </div>一款狗狗币（GOGE）的区块浏览器，为投资者提供区块查询，价格查询，区块高度，区块难度等信息 Dogechain是一个由社区指导和拥有的区块链]]></description>
+</item></channel>
+</rss>

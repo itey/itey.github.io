@@ -1,5 +1,3 @@
-# 
-
 # Blockchain Capital
 
 Blockchain Capital 由 Bart Stephens、Brad Stephens、Brock Pierce 创办，位于旧金山，是部门特定的多阶段风险投资公司，旨在获得和区块链生态系统的多样化接触，同时为其投资者提供独特的共同投资机会和专有交易流程。
@@ -45,4 +43,3 @@ Blockchain Capital是区块链行业领先的风险投资公司。在过去的8�
 ##### 参与式服务
 
 作为领先的加密资产/协议的投资者，我们是治理流程，网络质押和支持增长的其他方式的积极参与者。我们相信参与式服务是Blockchain Captial支持早期协议及其团队的关键方式。
-

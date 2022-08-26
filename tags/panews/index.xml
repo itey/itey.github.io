@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PANews - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/panews/</link>
+        <description>PANews - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/panews/" rel="self" type="application/rss+xml" /><item>
+    <title>PANews</title>
+    <link>https://www.metabd.cc/navigation/panews/</link>
+    <pubDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/panews/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/panews.png" referrerpolicy="no-referrer">
+            </div>PANews致力于为区块链及金融科技领域的创业者、创新者，提供有价值的资讯和洞察，与咨询顾问公司PANONY为企业寻找增长引擎，赋能未来行业]]></description>
+</item></channel>
+</rss>

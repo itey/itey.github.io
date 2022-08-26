@@ -1,5 +1,3 @@
-# 
-
 # 幽灵币-Spectrecoin(XSPEC)
 
 Spectrecoin（XSPEC）是一种创新的，以隐私为中心的加密货币，具有高能效的股权证明算法，可提供快速的交易确认，用于隐私和匿名的环形签名以及用于IP混淆的完全集成的Tor+OBFS4层。
@@ -26,6 +24,5 @@ Spectrecoin作为Tor隐藏服务运行，通过在Tor网络上的多个跃点路
 
 7、通货膨胀率下降
 由于XSPEC和SPECTER提供不同的固定赌注奖励，因此通货膨胀率将取决于网络上XSPEC与SPECTER赌注的比率，但会随着时间的推移而降低。
-
 
 

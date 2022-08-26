@@ -1,5 +1,3 @@
-# 
-
 # CryptoTradingCafe
 
 CryptoTradingCafe是什么？
@@ -11,4 +9,3 @@ CryptoTradingCafe是什么？
 CryptoTradingCafe输出什么信息？
 
 本站的核心关键词和目标读者是“币圈交易员”，无论是抓热点的现货玩家，还是以技术分析来做交易的合约交易员，或者是套利/躺平的佛系玩家。
-

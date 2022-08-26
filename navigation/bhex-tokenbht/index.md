@@ -1,5 +1,3 @@
-# 
-
 # BHEX Token(BHT)
 
 BHT是BHEX交易平台生态系统发行的Token，承载了BHEX生态系统的核心价值——包含BHEX交易平台、BHOP开放平台和拥有专利技术的Bluehelix底层链的去中心化托管清算平台。
@@ -36,4 +34,3 @@ BHEX会将80%的业务收入用来每个季度从市场上对BHT进行回购并�
 
 
 BHT会用于抵扣交易手续费、支付混合云SaaS基础费用、合伙人节点保证金、OTC商家押金、Blue Helix链的节点
-

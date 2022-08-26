@@ -1,5 +1,3 @@
-# 
-
 # Aevocoin Explorer
 
 Aevocoin Explorer是Aevocoin代币的官方浏览器，提供区块查询，地址查询，交易查询等功能。
@@ -13,4 +11,3 @@ Aevocoin Explorer是Aevocoin代币的官方浏览器，提供区块查询，地�
 ##### 安全
 
 Aevo为其网络使用Scrypt哈希算法，提供最大的安全性和稳定性。
-

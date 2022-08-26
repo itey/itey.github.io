@@ -1,5 +1,3 @@
-# 
-
 # ParallelCoin(DUO)
 
 Parallelcoin是一种新型的数字货币，可以立即向世界任何地方的任何人付款。Parallelcoin使用对等技术在没有中央授权的情况下进行操作：管理交易和发行资金是由网络集体进行的。Parallelcoin也是可以使用该货币的开源软件的名称。
@@ -23,4 +21,3 @@ RPC端口：11048（21048 Testnet）
 我们创建了一个新的Parallelcoin网站，区块浏览器，节点，Parallelcoin sha256d池，并实现了DUO可用于在Cryptopia代币交易中进行交易的功能。
 
 任何用户都可以成为该社区的一部分。开始挖掘Parallelcoin并广为传播。
-

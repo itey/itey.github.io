@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>星火节点数据 - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/%E6%98%9F%E7%81%AB%E8%8A%82%E7%82%B9%E6%95%B0%E6%8D%AE/</link>
+        <description>星火节点数据 - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/%E6%98%9F%E7%81%AB%E8%8A%82%E7%82%B9%E6%95%B0%E6%8D%AE/" rel="self" type="application/rss+xml" /><item>
+    <title>星火节点数据</title>
+    <link>https://www.metabd.cc/navigation/xinghuojiedianshuju/</link>
+    <pubDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>yangsi</name><uri>https://www.metabd.cc/authors/yangsi</uri></author><guid>https://www.metabd.cc/navigation/xinghuojiedianshuju/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/xinghuojiedianshuju.png" referrerpolicy="no-referrer">
+            </div>同步以太坊区块数据。 星火链底层采用“1+N”主从链群架构，支持标识数据链上链下分布式存储功能，同时既可支持同构和异构区块链接入主链。在全国重]]></description>
+</item></channel>
+</rss>

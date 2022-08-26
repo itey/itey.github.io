@@ -1,5 +1,3 @@
-# 
-
 # ETC DEV
 
 ETC DEV 团队维护 ETC 区块链的主要客户端 Geth，并贡献了帮助开发的 Emerald 钱包、独立、可嵌入、模块化的 SputnikVM。ETC DEV 通过制定开放标准，努力保护以太坊经典免受集中管理机构的潜在干扰。
@@ -25,4 +23,3 @@ ETC DEV 团队维护 ETC 区块链的主要客户端 Geth，并贡献了帮助�
 ### 稳定硬币
 
 ##### Emerald支持主要的稳定币 - USDC，USDT和DAI。
-

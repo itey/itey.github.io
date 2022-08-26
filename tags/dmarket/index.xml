@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Dmarket - 标签 - 斗极元宇宙导航</title>
+        <title>DMarket - 标签 - 斗极元宇宙导航</title>
         <link>https://www.metabd.cc/tags/dmarket/</link>
-        <description>Dmarket - 标签 - 斗极元宇宙导航</description>
+        <description>DMarket - 标签 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
             <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 16 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dmarket/" rel="self" type="application/rss+xml" /><item>
     <title>Dmarket</title>
@@ -12,5 +12,13 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/dmarket.png" referrerpolicy="no-referrer">
             </div>DMarket 市场使数百万游戏玩家和电子竞技爱好者能够使用一整套先进的游戏技术和金融科技功能（包括 Target/Bid、Instant Sale 和 DMarket Circular Excha]]></description>
+</item><item>
+    <title>DMarket</title>
+    <link>https://www.metabd.cc/navigation/dmarket/</link>
+    <pubDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>qianxun</name><uri>https://www.metabd.cc/authors/qianxun</uri></author><guid>https://www.metabd.cc/navigation/dmarket/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/124.jpg" referrerpolicy="no-referrer">
+            </div>多种 CS:GO、Rust、Dota2 和 TF2 皮肤可供选择。获得最独特和最稀有的皮肤。Dmarket提供范围广泛的游戏内物品。贸易。 DMarket]]></description>
 </item></channel>
 </rss>

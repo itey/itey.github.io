@@ -1,5 +1,3 @@
-# 
-
 # 一致资本
 
 S. Capital一致资本（前Consensus Capital共识资本），是一家新兴的风险投资资本，目前专注于区块链、数字货币及金融服务的投资和项目。
@@ -13,4 +11,3 @@ S. Capital一致资本（前Consensus Capital共识资本），是一家新兴�
 2018年5月，由于机构重名原因，Consensus Capital共识资本正式更名为S·Capital一致资本。其他继续沿用共识资本名称的公司和一致资本并无关联，特此声明!
 
 机构介绍：S·Capital一致资本是国内最早专注于区块链与数字资产领域投资的风险投资机构之一，由深耕于区块链领域的技术、互联风险投资及区块链业KOL共同发起创。曾成功参与过Aelf、Bytom、Nebulas、Arcblock、Theta、Trinity等五十多个区块链项目的投资。
-

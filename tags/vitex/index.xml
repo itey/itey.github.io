@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ViteX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/vitex/</link>
+        <description>ViteX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/vitex/" rel="self" type="application/rss+xml" /><item>
+    <title>ViteX</title>
+    <link>https://www.metabd.cc/navigation/vitex/</link>
+    <pubDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/vitex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/vitex.webp" referrerpolicy="no-referrer">
+            </div>ViteX是基于VITE公链开发的去中心化国际站，是去中心化应用的一个落地场景。ViteX开放四个基础代币交易市场，即VITE、BTC、ET]]></description>
+</item></channel>
+</rss>

@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>SPELLFIRE - 标签 - 斗极元宇宙导航</title>
+        <title>Spellfire - 标签 - 斗极元宇宙导航</title>
         <link>https://www.metabd.cc/tags/spellfire/</link>
-        <description>SPELLFIRE - 标签 - 斗极元宇宙导航</description>
+        <description>Spellfire - 标签 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
             <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/spellfire/" rel="self" type="application/rss+xml" /><item>
     <title>SPELLFIRE</title>
@@ -12,5 +12,13 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/spellfire.png" referrerpolicy="no-referrer">
             </div>Spellfire - 一款纸牌游戏，让玩家潜入幻想世界，掌握魔法和蛊惑的艺术，与最强大的怪物战斗，并成为从湿沙漠到神圣死地的最伟大领域的统治者。现实与幻想之间]]></description>
+</item><item>
+    <title>Spellfire</title>
+    <link>https://www.metabd.cc/navigation/spellfire/</link>
+    <pubDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>qianxun</name><uri>https://www.metabd.cc/authors/qianxun</uri></author><guid>https://www.metabd.cc/navigation/spellfire/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/115.jpeg" referrerpolicy="no-referrer">
+            </div>失落已久的世界又回来了。你准备好拥有它了吗？ Spellfire 是一款由以太坊提供支持并具有一些独特功能的NFT可收藏纸牌游戏。Spellfire 包括一个 P2E 机]]></description>
 </item></channel>
 </rss>

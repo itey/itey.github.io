@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BitShares Block - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/bitshares-block/</link>
+        <description>BitShares Block - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 25 Mar 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/bitshares-block/" rel="self" type="application/rss+xml" /><item>
+    <title>BitShares Block</title>
+    <link>https://www.metabd.cc/navigation/bitshares/</link>
+    <pubDate>Fri, 25 Mar 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/bitshares/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/bitshares-block.png" referrerpolicy="no-referrer">
+            </div>比特股（BTS）区块浏览器是一个可创建BTS账户，查询节点、账户信息的多功能工具网站 简单的说，BitShares就是一个类似于上证所或者纳斯]]></description>
+</item></channel>
+</rss>

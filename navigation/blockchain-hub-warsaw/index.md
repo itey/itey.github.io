@@ -1,5 +1,3 @@
-# 
-
 # Blockchain Hub Warsaw
 
 Blockchain Hub Warsaw，开放的波兰区块链社区，也自称是全球领先的区块链中心，成为连接全球的枢纽。
@@ -13,6 +11,5 @@ Blockchain Hub Warsaw，开放的波兰区块链社区，也自称是全球领�
 ‎将区块链技术的未来构建为波兰领先项目，开发人员和团队的开放社区。‎
 
 ![ss](22.png)
-
 
 

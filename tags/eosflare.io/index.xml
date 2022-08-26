@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>eosflare.io - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/eosflare.io/</link>
+        <description>eosflare.io - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/eosflare.io/" rel="self" type="application/rss+xml" /><item>
+    <title>eosflare.io</title>
+    <link>https://www.metabd.cc/navigation/eosflare-io/</link>
+    <pubDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/eosflare-io/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/eosflare-io.png" referrerpolicy="no-referrer">
+            </div>一款暗色风格的EOS浏览器，用曲线展示了TPS实时数据，用环形图展示了RAM、质押、赎回、可用余额等数据。 ‎EOS区块链探索。在EOS区块链]]></description>
+</item></channel>
+</rss>

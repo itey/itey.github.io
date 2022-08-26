@@ -1,5 +1,3 @@
-# 
-
 # Nucleus Vision(NCASH)
 
 Nucleus Vision是一种端到端的技术解决方案，通过其专有的区块链和实时传感器技术，为零售商和众多“实体店”提供业务数据支撑。nCash是Nucleus Vision的代币，用于Nucleus Vision生态系统中的各种交易。
@@ -11,4 +9,3 @@ Nucleus Vision是一种端到端的技术解决方案，通过其专有的区块
 NitroBots 是不可替代的矿工 (NFM)，用 $NCASH（Nitro 的本地实用程序代币）奖励所有者。奖励来自 Nitro 的链下业务合作伙伴关系。只要拥有并持有 NitroBot，所有者就会每 30 分钟获得一次 $NCASH 奖励。
 
 选择您的等级，铸造您的 NFM，然后让机器人完成剩下的工作。
-

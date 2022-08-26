@@ -1,5 +1,3 @@
-# 
-
 # ChainLink(LINK)
 
 ### 1.简介
@@ -53,4 +51,3 @@ https://blockonomi.com/chainlink-guide/
 使用去中心化的Chainlink Keeper节点网络自动执行智能合约，消除人为干预和中心化预言机的风险。
 
 Chainlink将智能合约接入真实世界的数据和链下计算资源，极大提升了智能合约的功能；并同时保留了区块链技术核心的安全性和可靠性。
-

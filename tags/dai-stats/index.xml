@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dai Stats - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/dai-stats/</link>
+        <description>Dai Stats - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/dai-stats/" rel="self" type="application/rss+xml" /><item>
+    <title>Dai Stats</title>
+    <link>https://www.metabd.cc/navigation/dai-stats/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/dai-stats/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dai-stats.jpg" referrerpolicy="no-referrer">
+            </div>Dai Stats，直接从主网读取 Dai Credit System 数据，项目使用 React 创建。 Dai Stats 统计数据由Twitter用户@nanexool制作，允许用户轻松跟踪与Dai st]]></description>
+</item></channel>
+</rss>

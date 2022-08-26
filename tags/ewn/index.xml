@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>EWN - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ewn/</link>
+        <description>EWN - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ewn/" rel="self" type="application/rss+xml" /><item>
+    <title>EWN</title>
+    <link>https://www.metabd.cc/navigation/ewn/</link>
+    <pubDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/ewn/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ewn.jpg" referrerpolicy="no-referrer">
+            </div>EWN 全称 Ethereum World News，致力于提供加密与区块链技术领域最新的新闻网站。就像以太坊激发了区块链技术领域的进化与革命一样，EWN 灵感源于以太坊路线图]]></description>
+</item></channel>
+</rss>

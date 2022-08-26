@@ -1,5 +1,3 @@
-# 
-
 # Xaurum(XAUR)
 
 Xaurum单位价值在黄金区块链,它代表了越来越多的黄金,可以兑换融化。 Xaurum黄金区块链是一个透明的分类帐帐户，占黄金属于Xaurum英联邦的分布，提供一个增加基本Xaurum价值。英联邦是由身体和Ethereum Auresco研究所网络数字化。Xaurum可以合作和盈利金矿开采。Xaurum exercies合作控制货币供应，槽分散合作开采和铸造。Xaurum是通过交换实物黄金的开采价值创造，存储为联邦黄金储备。它是在一个PoS Blackcoin区块链，并转换到Ethereum。
@@ -15,6 +13,5 @@ Masternodes
 Minting需要一个Masternode，拥有8.000.000 Xaurum作为Xaurum联邦所需的常规利益的证明和保证。由于minter拥有8.000.000 Xaurum，因此他充分考虑了整个区域的优势，因为他从区域和seigniorage的增加中受益。因此，维持市场价格以保持从铸币税和地区直接受益的利益是符合他的利益的。
 
 Xaurum只是采用与制定和促进者一致的方式来加强方向，这将提供更多的机会和简化访问加密货币。遵循这些原则对于保证项目的寿命非常重要，这些努力需要一些时间。
-
 
 

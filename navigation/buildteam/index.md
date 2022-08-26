@@ -1,5 +1,3 @@
-# 
-
 # BuildTeam
 
 BuildTeam 是一家革命性区块链技术公司，专注于创建领先的侧链服务和定制去中心化应用，旨在提升 Steem 社交网络生态系统以及其他区块链环境。
@@ -26,4 +24,3 @@ DLease是同类首创的Peer-2-Peer令牌租赁应用程序，促进Hive区块�
 ##### 经过验证的跟踪记录
 
 自2017年以来，DLease已经促成了价值超过2000万Steem Power的租赁。我们的服务在久经考验的Steem /Hive区块链上运行，该区块链被评为 Coinmarketcap.com 前150名。
-

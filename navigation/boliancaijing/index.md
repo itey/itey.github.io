@@ -1,5 +1,3 @@
-# 
-
 # 博链财经
 
 博链财经，以财经视角，解读区块链，旗下拥有《直面大佬》、《牛熊启示录》等王牌栏目，先后专访李笑来、杨林科等币圈大佬。
@@ -63,4 +61,3 @@ The overall coverage of BroadChain has exceeded 1,000,000 people. Having experie
 我们期待通过「Alias Capital」发现更多优质项目，陪伴他们成长，等待他们“在不同的时空”的爆发。
 
 对于我们「Alias Capital」来说，扶持和陪伴区块链时代下一个「王者」的成长，这是很有意义的事情。
-

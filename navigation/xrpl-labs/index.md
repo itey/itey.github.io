@@ -1,5 +1,3 @@
-# 
-
 # XRPL Labs
 
 XRPL Labs 全职合作开发 XRP 分类账技术的应用。团队由 Tristan、Ali 和 Wietse 三人创建。
@@ -15,4 +13,3 @@ XRPL Labs 全职合作开发 XRP 分类账技术的应用。团队由 Tristan、
 【动态 | XRParrot因运营成本等原因关闭其服务】金色财经报道，XRParrot宣布关闭其服务。据悉，该平台旨在使用户能够以低廉的价格将法定货币转换为XRP，而无需交易所。XRP TipBot开发人员和XRPL Labs创始人Wietse Wind透露，与注册、许可证、法律和运营相关的成本是终止XRParrot的原因。
 
 【瑞波对研发团队XRPL Labs和产品Xumm继续提供3年支持】瑞波投资部门Xpring表示对研发团队XRPL Labs和该团队产品Xumm继续提供3年的支持，Xpring负责人Warren Paul Anderson表示Xumm是XRP账本的最好代表，支持用户持有、使用XRP。长期来看，Xumm计划让用户无需通过金融机构的支持就可使用美元、欧元和XRP。（DailyHodl）}
-

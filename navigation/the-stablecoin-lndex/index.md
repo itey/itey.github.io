@@ -1,5 +1,3 @@
-# 
-
 # The Stablecoin Index
 
 The Stablecoin Index 稳定币指数，是由 Myles Snider 与 Mike McDonald 合作的开源工具，用于跟踪和比较各种稳定币项目。具体列出按市值排名的实时、公开交易的稳定币数据，以及价格、交易量等。
@@ -83,4 +81,3 @@ The Stablecoin Index 稳定币指数，是由 Myles Snider 与 Mike McDonald 合
 \36. 据金十消息：韩国最大的搜索引擎和门户网站Naver将参与韩国央行数字货币项目。
 
 \37. 灰度LTC、LINK等币种，LINK持仓增长1.06%；据币世界数据，美东时间5月13日，灰度信托持仓数据变化如下：灰度LTC信托持仓量增加90.83枚（+0.01%），总持仓量为1503861.71 LTC，LTCN溢价率941.24%；灰度LINK信托持仓量增加1808.79枚（+1.06%），总持仓量为172808.08 LINK；灰度ZEC信托持仓量增加50.80枚（+0.02%），总持仓量为327036.58 LINK。灰度BTC、ETH、ETC、BCH、BAT、MANA、FIL、LPT信托当日未增持，GBTC溢价率-21.23%、ETHE溢价率-14.34%、ETCG溢价率-46.55%、BCHG溢价率160%。
-

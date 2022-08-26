@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Chaincode Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/chaincode-labs/</link>
+        <description>Chaincode Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/chaincode-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>Chaincode Labs</title>
+    <link>https://www.metabd.cc/navigation/chaincode-labs/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/chaincode-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/chaincode-labs.png" referrerpolicy="no-referrer">
+            </div>Chaincode 实验室位于纽约的加密货币研究与开发公司，旨在支持和开发比特币及其他点对点分布式系统。他们为开源项目及区块链开发生态系统做出持久贡献，包括新]]></description>
+</item></channel>
+</rss>

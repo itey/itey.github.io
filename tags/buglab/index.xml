@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Buglab - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/buglab/</link>
+        <description>Buglab - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/buglab/" rel="self" type="application/rss+xml" /><item>
+    <title>Buglab</title>
+    <link>https://www.metabd.cc/navigation/buglab/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/buglab/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/buglab.jpg" referrerpolicy="no-referrer">
+            </div>Buglab 基于以太坊，通过专业网络安全研究人员全球网络连接众多公司。其生态系统的核心包含两个项目——Buglab 竞赛和 Vigilante Protocol，帮助全世界]]></description>
+</item></channel>
+</rss>

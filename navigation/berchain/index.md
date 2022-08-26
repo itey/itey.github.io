@@ -1,5 +1,3 @@
-# 
-
 # BerChain
 
 BerChain 旨在将柏林区块链社区联合起来，连接和推广区块链生态系统内外的柏林区块链社区，将之定位为全球 Blockchain Capital。
@@ -11,4 +9,3 @@ BerChain是一个非营利性协会，其使命在于连接和促进柏林区块
 Berchain的目标是使区块链生态系统更加清晰可见、联系更紧密，以确保柏林在区块链行业的地位，对区块链公司有足够的吸引力。
 
 BerChain由Innogy和Deutsche Telekom等大型公司、Aeternity等区块链协议、Factory Berlin等共享工作空间以及许多不同的初创公司组成。
-

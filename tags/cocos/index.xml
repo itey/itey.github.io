@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>COCOS - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/cocos/</link>
+        <description>COCOS - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 18 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/cocos/" rel="self" type="application/rss+xml" /><item>
+    <title>COCOS</title>
+    <link>https://www.metabd.cc/navigation/cocos/</link>
+    <pubDate>Mon, 18 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/cocos/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/cocos.png" referrerpolicy="no-referrer">
+            </div>COCOS它的目标是打造一个完整的多平台游戏运行环境，即为区块链游戏开发者提供开发过程中的便利性和完善性，同时也为区块链游戏用户带来全新的游]]></description>
+</item></channel>
+</rss>

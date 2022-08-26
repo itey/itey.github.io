@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>EOS Tracker - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/eos-tracker/</link>
+        <description>EOS Tracker - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/eos-tracker/" rel="self" type="application/rss+xml" /><item>
+    <title>EOS Tracker</title>
+    <link>https://www.metabd.cc/navigation/eos-tracker/</link>
+    <pubDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/eos-tracker/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/eos-tracker.png" referrerpolicy="no-referrer">
+            </div>EOS区块链浏览器，根据区块/交易/账户进行搜索，展示实时交易情况 ‎EOS跟踪器‎‎，EOSIO区块链的实时查看器。‎ ‎追踪EOSIO的NF]]></description>
+</item></channel>
+</rss>

@@ -1,5 +1,3 @@
-# 
-
 # 欧链-OracleChain(OCT)
 
 OracleChain是一个多区块链的去中心化Oracle技术平台，采用自主的PoRD机制，将现实世界数据引入区块链，并将此作为基础设施为其他区块链应用提供服务。
@@ -63,4 +61,3 @@ OracleChain 提供更高效实用的 Service API，方便其他区块链应用�
 用户需要支付 OCT 来获得 Oracle 服务。 OracleChain将使用一个有效的奖惩机制，旨在鼓励数据源节点（data feeder） 提供有效的data feed服务，所有正常参与data feed的节点都将会得到声誉提升，同时获得 OracleChain 的代币 OCT（Oracle Chain Token），反之，非正常的数据源 节点会同时失去声誉和抵押给OracleChain 平台的 OCT 风险金。
 
 智能合约应用如果想使用Oraclechain提供的数据服务，需要使用OCT来购买这个服务。所以使用Oraclechain数据服务的Dapp越多，OCT代币的价值就会越高。
-

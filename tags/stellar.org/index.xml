@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Stellar.org - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/stellar.org/</link>
+        <description>Stellar.org - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 08 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/stellar.org/" rel="self" type="application/rss+xml" /><item>
+    <title>Stellar.org</title>
+    <link>https://www.metabd.cc/navigation/stellar-org/</link>
+    <pubDate>Fri, 08 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/stellar-org/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/stellar-org.png" referrerpolicy="no-referrer">
+            </div>恒星币（XLM）官方区块浏览器，拥有专业的查询工具，丰富的数据资源，多样化指数监测，帮助用户轻松获取信息]]></description>
+</item></channel>
+</rss>

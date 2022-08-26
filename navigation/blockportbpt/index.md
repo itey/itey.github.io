@@ -1,5 +1,3 @@
-# 
-
 # Blockport(BPT)
 
 Blockport是一种混合分散的交换，主要关注用户友好性、社会交易特性以及构建知识共享社区。
@@ -17,4 +15,3 @@ Blockport是一种混合分散的交换，主要关注用户友好性、社会�
   BUX Crypto是为初学者和有经验的交易者构建的最方便的平台。
 
   ![app_desktop](app_desktop.png)
-

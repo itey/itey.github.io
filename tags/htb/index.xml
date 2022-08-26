@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HTB - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/htb/</link>
+        <description>HTB - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/htb/" rel="self" type="application/rss+xml" /><item>
+    <title>HTB</title>
+    <link>https://www.metabd.cc/navigation/htb/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/htb/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/htb.webp" referrerpolicy="no-referrer">
+            </div>HTB为Hotbit发行的平台币，与社区共同实践打造一个加密数字资产交易的理想生态系统。Hotbit全部交易手续费所带来的BTC、ETH、U]]></description>
+</item></channel>
+</rss>

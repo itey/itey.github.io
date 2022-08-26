@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PARSEC Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/parsec-labs/</link>
+        <description>PARSEC Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/parsec-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>PARSEC Labs</title>
+    <link>https://www.metabd.cc/navigation/parsec-labs/</link>
+    <pubDate>Wed, 20 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/parsec-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/parsec-labs.jpg" referrerpolicy="no-referrer">
+            </div>Parsec Labs 是分布式的自组织，提供以太坊 Layer-2 的扩容解决方案，帮助去中心化应用达成 Plasma 扩容。他们正尝试使用 holacracy 进行自我管理的分布式组织，奖励开放的社区贡献。]]></description>
+</item></channel>
+</rss>

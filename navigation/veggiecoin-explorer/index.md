@@ -1,5 +1,3 @@
-# 
-
 # VeggieCoin Explorer
 
 
@@ -16,4 +14,3 @@ VeggieCoin Explorer是VeggieCoin的官方浏览器提供区块高度查询，地
 - 在主要的加密货币交易所消费蔬菜，或捐赠它来帮助动物。
 
 - 交易的公共分类账。所有基金均可公开查看。
-

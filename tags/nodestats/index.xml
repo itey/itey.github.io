@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Nodestats - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/nodestats/</link>
+        <description>Nodestats - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 18 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/nodestats/" rel="self" type="application/rss+xml" /><item>
+    <title>Nodestats</title>
+    <link>https://www.metabd.cc/navigation/nodestats/</link>
+    <pubDate>Mon, 18 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/nodestats/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/nodestats.jpg" referrerpolicy="no-referrer">
+            </div>Nodestats 由 BitMEX Research 与 TokenAnalyst 共同发起，每 5 秒查询各以太坊节点，并生成实时数据，显示在网站上。]]></description>
+</item></channel>
+</rss>

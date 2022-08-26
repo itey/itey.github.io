@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>QRL - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/qrl/</link>
+        <description>QRL - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/qrl/" rel="self" type="application/rss+xml" /><item>
+    <title>QRL</title>
+    <link>https://www.metabd.cc/navigation/qrl/</link>
+    <pubDate>Thu, 21 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/qrl/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/qrl.jpg" referrerpolicy="no-referrer">
+            </div>量子抵抗分类账（QRL）项目是一款专门针对量子计算（QC）进步而设计的公开链分类帐。与现有的分类帐（比如比特币或以太坊）不同，QRL专门用于]]></description>
+</item></channel>
+</rss>

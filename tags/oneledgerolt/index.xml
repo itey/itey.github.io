@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>OneLedger(OLT) - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/oneledgerolt/</link>
+        <description>OneLedger(OLT) - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/oneledgerolt/" rel="self" type="application/rss+xml" /><item>
+    <title>OneLedger(OLT)</title>
+    <link>https://www.metabd.cc/navigation/oneledgerolt/</link>
+    <pubDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/oneledgerolt/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/oneledgerolt.jpg" referrerpolicy="no-referrer">
+            </div>OneLedger 的创建是为了解决区块链互操作性的棘手问题。随着全球对区块链技术的采用开始加快步伐，一些明显的关键技术挑战已经限制了企业级区块链采用的规模。]]></description>
+</item></channel>
+</rss>

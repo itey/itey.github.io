@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Nifty Ink - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/nifty-ink/</link>
+        <description>Nifty Ink - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 13 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/nifty-ink/" rel="self" type="application/rss+xml" /><item>
+    <title>Nifty Ink</title>
+    <link>https://www.metabd.cc/navigation/nifty-ink/</link>
+    <pubDate>Wed, 13 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/nifty-ink/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/507.png" referrerpolicy="no-referrer">
+            </div>Nifty Ink是用于创建可扩展NFT平台的脚手架，将诸如元交易、Burner Wallets、侧链、桥接等结合在一起，以创建类似Web 2.0的体验。]]></description>
+</item></channel>
+</rss>

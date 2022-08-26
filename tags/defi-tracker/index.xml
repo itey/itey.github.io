@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DeFi Tracker - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/defi-tracker/</link>
+        <description>DeFi Tracker - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 25 Mar 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/defi-tracker/" rel="self" type="application/rss+xml" /><item>
+    <title>DeFi Tracker</title>
+    <link>https://www.metabd.cc/navigation/defi-tracker/</link>
+    <pubDate>Fri, 25 Mar 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>qianxun</name><uri>https://www.metabd.cc/authors/qianxun</uri></author><guid>https://www.metabd.cc/navigation/defi-tracker/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/4.jpg" referrerpolicy="no-referrer">
+            </div>DeFi Tracker 旨在跟踪不同 #DeFi 协议的所有余额，由 DexWallet 开发，并提供相关数据，QuikNode 提供云端节点支持。 尽管许多 DeFi 代币的价格已大幅下跌，但去中心化金融]]></description>
+</item></channel>
+</rss>

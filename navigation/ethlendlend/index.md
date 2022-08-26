@@ -1,5 +1,3 @@
-# 
-
 # EthLend(LEND)
 
 ### 一、项目简介
@@ -20,4 +18,3 @@ https://bitcointalk.org/index.php?topic=2440838.0
 ‎基于区块链的分散式‎*‎借贷‎*‎平台，允许通过智能合约使用您的比特币，以太坊和其他ERC20代币作为抵押品。‎
 
 ![terview)](ethlend2.jpg)
-

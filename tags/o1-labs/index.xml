@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>O(1) Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/o1-labs/</link>
+        <description>O(1) Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/o1-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>O(1) Labs</title>
+    <link>https://www.metabd.cc/navigation/o1-labs/</link>
+    <pubDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/o1-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/o1-labs.jpg" referrerpolicy="no-referrer">
+            </div>O(1) Labs 旨在开发可支持实际应用与广泛使用承诺的协议。他们通过应用尖端加密 zk-SNARKs 与最先进的共识，创建了无块区块链，可以在不牺牲任何客户端算力的情况下，]]></description>
+</item></channel>
+</rss>

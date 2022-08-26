@@ -1,5 +1,3 @@
-# 
-
 # VRChat
 
 VRChat》是一款由格雷厄姆·盖勒（Graham Gaylor）和杰西·荷德瑞（Jesse Joudrey）开发的免费大型多人线上虚拟现实游戏。其允许玩家以3D角色模块与其他玩家交流，同时也支持Oculus Rift、HTC Vive和Windows Mixed Reality虚拟现实耳机。游戏已在2017年2月1日通过Steam的抢先体验模式在Microsoft Windows发行，但实际发售日期仍然未定。
@@ -21,4 +19,3 @@ VRChat》是一款由格雷厄姆·盖勒（Graham Gaylor）和杰西·荷德瑞
 - 参与官方和社区活动。
 
 - 你永远不知道你遇到的下一个化身是否会成为你的下一个最好的朋友。
-

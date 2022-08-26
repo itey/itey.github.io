@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CertiK - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/certik/</link>
+        <description>CertiK - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/certik/" rel="self" type="application/rss+xml" /><item>
+    <title>CertiK</title>
+    <link>https://www.metabd.cc/navigation/certik/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/certik/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/certik.jpg" referrerpolicy="no-referrer">
+            </div>CertiK是一家智能合同及区块链生态安全服务提供商，采用了形式化的验证，将智能合约转化为数学模型，通过逻辑上的推理演算来验证模型，从而证明]]></description>
+</item></channel>
+</rss>

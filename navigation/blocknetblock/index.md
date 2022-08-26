@@ -1,5 +1,3 @@
-# 
-
 # Blocknet(BLOCK)
 
 **1.简介Blocknet 是面向即将到来的“区块链间时代”的基础设施，这是一个新兴的技术时代，主要表现为当前的 API 生态系统取代了分散和本质货币化的“令牌生态系统”。当其支持技术（特别是智能合约和“分布式应用程序”）成熟到具备实用的区块链间互操作性时，就会出现这种转变。Blocknet 是提供分布式应用程序和智能合约所使用之链间基础设施的技术领先者。**
@@ -43,4 +41,3 @@ Blocknet 的构建应尽可能考虑到可组合性和模块性，与上面设�
 相关链接：https://blocknet.co/
 https://www.blocknet.co/wp-content/uploads/2018/05/Blocknet-Whitepaper-Mandarin.pdf
 http://www.qukuaiwang.com.cn/szhb/3282.html###
-

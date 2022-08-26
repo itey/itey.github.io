@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Nomadic Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/nomadic-labs/</link>
+        <description>Nomadic Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 18 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/nomadic-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>Nomadic Labs</title>
+    <link>https://www.metabd.cc/navigation/nomadic-labs/</link>
+    <pubDate>Mon, 18 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/nomadic-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/nomadic-labs.jpg" referrerpolicy="no-referrer">
+            </div>Nomadic Labs 在计算机科学的各个领域研究和开发产品与服务，包括分布式、去中心化、正式验证的系统等。这一研发机构，由 Tezos 项目背后的几位主要的技术开发工程师]]></description>
+</item></channel>
+</rss>

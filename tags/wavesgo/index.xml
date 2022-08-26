@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WavesGO - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/wavesgo/</link>
+        <description>WavesGO - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/wavesgo/" rel="self" type="application/rss+xml" /><item>
+    <title>WavesGO</title>
+    <link>https://www.metabd.cc/navigation/wavesgo/</link>
+    <pubDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/wavesgo/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/wavesgo.jpg" referrerpolicy="no-referrer">
+            </div>Waves 官方的区块浏览器，另外，也是 Waves 最大的矿池。Waves是Web 3.0应用程序的开放源代码平台和去中心化环境，它提供了多种专门设计的工具，这些]]></description>
+</item></channel>
+</rss>

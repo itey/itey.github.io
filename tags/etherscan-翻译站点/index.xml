@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>etherscan 翻译站点 - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/etherscan-%E7%BF%BB%E8%AF%91%E7%AB%99%E7%82%B9/</link>
+        <description>etherscan 翻译站点 - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/etherscan-%E7%BF%BB%E8%AF%91%E7%AB%99%E7%82%B9/" rel="self" type="application/rss+xml" /><item>
+    <title>etherscan 翻译站点</title>
+    <link>https://www.metabd.cc/navigation/etherscan/</link>
+    <pubDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/etherscan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/etherscan.png" referrerpolicy="no-referrer">
+            </div>以太网的BlockExplorer和分析平台，一个分散的智能合约平台。 ‎有关如何使用‎‎Etherscan的‎‎教程和指南，新功能以及提供给]]></description>
+</item></channel>
+</rss>

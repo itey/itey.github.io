@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>VITE - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/vite/</link>
+        <description>VITE - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/vite/" rel="self" type="application/rss+xml" /><item>
+    <title>VITE</title>
+    <link>https://www.metabd.cc/navigation/vite/</link>
+    <pubDate>Wed, 13 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/vite/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/vite.webp" referrerpolicy="no-referrer">
+            </div>Vite是一个无手续费的高性能公链，率先实现了基于DAG结构的智能合约。原创的异步架构、分层共识及快照链技术，让Vite的性能和成本处于行业]]></description>
+</item></channel>
+</rss>

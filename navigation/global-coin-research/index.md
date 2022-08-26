@@ -1,5 +1,3 @@
-# 
-
 # Global Coin Research
 
 亚洲加密事件摘要，Newsletter 每周两次。从前 TechCrunch 的 Joyce Yang 创办。已经加入的包括 Scalar Capital 的 Linda Xie、《纽约时报》的 Nathaniel Popper、Vitalik Buterin、Cryptokitties 的 Benny Giang 以及其他加密、技术与商业领袖。
@@ -9,4 +7,3 @@
 $GCR 总供应量的 30% 将分配给 Global Coin LLC。（建立 Global Coin Research 的公司）及其顾问。这些代币将按照与社区金库相同的时间表在 4 年内线性归属。
 
 $GCR 的主要目的是用于治理我们的整个生态系统，包括发布平台、财务和运营。GlobalCoinResearch 将随着时间的推移将所有控制权和管理权移交给社区。将有社区指定的编辑和管理员。同时，该代币将用于资助作者并形成社区赏金
-

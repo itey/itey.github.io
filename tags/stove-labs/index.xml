@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Stove Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/stove-labs/</link>
+        <description>Stove Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 12 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/stove-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>Stove Labs</title>
+    <link>https://www.metabd.cc/navigation/stove-labs/</link>
+    <pubDate>Tue, 12 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/stove-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/stove-labs.jpg" referrerpolicy="no-referrer">
+            </div>Stove Labs 由 Matej Šima 拥有和经营，关注 Tezos 区块链、IPFS、ReasonML、智能合约、开源、DAPP 教程等等。 其接受 TQ Group 委托创建了 Granary 开发环境，在 R]]></description>
+</item></channel>
+</rss>

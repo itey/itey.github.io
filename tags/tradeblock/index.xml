@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TradeBlock - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tradeblock/</link>
+        <description>TradeBlock - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 11 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tradeblock/" rel="self" type="application/rss+xml" /><item>
+    <title>TradeBlock</title>
+    <link>https://www.metabd.cc/navigation/tradeblock/</link>
+    <pubDate>Mon, 11 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/tradeblock/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tradeblock.jpg" referrerpolicy="no-referrer">
+            </div>TradeBlock 以 API 为中心的端到端平台使机构能够通过专门构建的交易前、交易执行、交易后和报告解决方案简化其加密资产交易工作流程。TradeBlock的愿景]]></description>
+</item></channel>
+</rss>

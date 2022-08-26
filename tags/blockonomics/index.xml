@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blockonomics - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/blockonomics/</link>
+        <description>Blockonomics - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 18 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/blockonomics/" rel="self" type="application/rss+xml" /><item>
+    <title>Blockonomics</title>
+    <link>https://www.metabd.cc/navigation/blockonomics/</link>
+    <pubDate>Mon, 18 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/blockonomics/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blockonomics.jpg" referrerpolicy="no-referrer">
+            </div>Blockonomics比特币区块链浏览器，支持区块高度、账号和交易哈希搜索 比特币发票可以通过搜索您的接收BTC地址来创建 可以通过用空格分隔]]></description>
+</item></channel>
+</rss>

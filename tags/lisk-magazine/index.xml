@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lisk Magazine - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lisk-magazine/</link>
+        <description>Lisk Magazine - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lisk-magazine/" rel="self" type="application/rss+xml" /><item>
+    <title>Lisk Magazine</title>
+    <link>https://www.metabd.cc/navigation/lisk-magazine/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/navigation/lisk-magazine/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lisk-magazine.jpg" referrerpolicy="no-referrer">
+            </div>Lisk Magazine 是关于 Lisk 生态的每日信息更新，在此获取有关 Lisk 生态系统的最新新闻、分析和评论。]]></description>
+</item></channel>
+</rss>

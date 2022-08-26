@@ -1,5 +1,3 @@
-# 
-
 # Manticore Games
 
 
@@ -30,4 +28,3 @@ Manticore Games 由来自 Electronic Arts、Blizzard、Respawn、Xfire、Roblox�
 - 创建、发布和赚取
 
 想制作自己的游戏吗？Core 通过在可访问的界面中为初学者和专业人士提供 Unreal 的强大功能，使之成为可能。您可以访问数百种免费的高质量音乐、声音和艺术资产，以及内置的 3D 建模和地形雕刻工具。一键发布让您可以轻松分享您的游戏、寻找玩家并潜在地赚钱。
-

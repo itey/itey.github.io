@@ -1,5 +1,3 @@
-# 
-
 # One Block Capital
 
 位于亚洲的领先区块链投资和咨询机构 One Block Capital，他们相信区块链，会帮助建立透明和更有效的金融体系，推进去中心化、无需信任、更公平的互联网。
@@ -11,4 +9,3 @@ One Block Capital 是领先的区块链投资者。One Block 坚信区块链在�
 基础设施：  Nakji、Solana、Marlin、Arweave、Zilliqa、Fantom、Quantstamp、Certik、Chainlink、Razor
 
 CEX：  FTX、Deribit、Ascendex (ASD)
-

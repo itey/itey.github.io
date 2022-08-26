@@ -1,5 +1,3 @@
-# 
-
 # Oculus
 
 Meta Quest成立于2012年，2013年6月，Oculus宣布完成A轮1600万美元融资，由经纬创投领投。
@@ -10,4 +8,3 @@ Meta Quest成立于2012年，2013年6月，Oculus宣布完成A轮1600万美元�
 2016年3月，Oculus团队为Rift消费者版增加了异步时间扭曲新功能。2018年10月，Oculus宣布将关闭其视频应用Oculus Rift Video APP中的电影租赁和购买服务。[1]
 
 2022年1月，Meta 的虚拟现实部门已从 Oculus 更名为 Meta Quest。
-

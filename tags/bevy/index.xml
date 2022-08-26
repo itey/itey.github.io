@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Bevy - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/bevy/</link>
+        <description>Bevy - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 14 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/bevy/" rel="self" type="application/rss+xml" /><item>
+    <title>Bevy</title>
+    <link>https://www.metabd.cc/navigation/bevyeng/</link>
+    <pubDate>Thu, 14 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/bevyeng/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/456.png" referrerpolicy="no-referrer">
+            </div>所有引擎和游戏逻辑都使用 Bevy ECS，这是一个自定义实体组件系统快：大规模并行和缓存友好。根据一些基准测试最快的ECS 简单：组件是 Rust 结构，系统是]]></description>
+</item></channel>
+</rss>

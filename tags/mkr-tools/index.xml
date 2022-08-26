@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MKR Tools - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/mkr-tools/</link>
+        <description>MKR Tools - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 07 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/mkr-tools/" rel="self" type="application/rss+xml" /><item>
+    <title>MKR Tools</title>
+    <link>https://www.metabd.cc/navigation/mkr-tools/</link>
+    <pubDate>Thu, 07 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>qianxun</name><uri>https://www.metabd.cc/authors/qianxun</uri></author><guid>https://www.metabd.cc/navigation/mkr-tools/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mkr-tools.jpg" referrerpolicy="no-referrer">
+            </div>交互式界面，用于跟踪 CDP 债务担保与整个 DAI 系统，使用区块链作为事实数据来源。目前 CDP 余额可能不正确或同步不及时。由 MakerDAO 社区的 Michael 提供技术支持。 使用专有]]></description>
+</item></channel>
+</rss>

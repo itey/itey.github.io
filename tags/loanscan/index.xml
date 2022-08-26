@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoanScan - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/loanscan/</link>
+        <description>LoanScan - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/loanscan/" rel="self" type="application/rss+xml" /><item>
+    <title>LoanScan</title>
+    <link>https://www.metabd.cc/navigation/loanscan/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/navigation/loanscan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/loanscan.jpg" referrerpolicy="no-referrer">
+            </div>anscan 允许你探索和搜索在以太坊区块链上发放的贷款，偿还状态、利率、拖欠及违约等，具体通过 Token / Debt Token ID / Address / TxHash / Relayer / Underwriter 进行搜索查询。 开放式金融系统，]]></description>
+</item></channel>
+</rss>

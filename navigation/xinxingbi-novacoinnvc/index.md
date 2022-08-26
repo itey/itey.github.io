@@ -1,5 +1,3 @@
-# 
-
 # 新星币-Novacoin(NVC)
 
 一、项目简介
@@ -17,6 +15,5 @@ NVC汇率最后更新于七月 11, 2022。
 
 NovaCoin算法模型有两种类型的区块，工作量证明和权益证明，每个类型都贡献现有的币量。
 可以使用公式nBlockReward = 100 /（nMaxTarget / nCurrentTarget）^（1/6）计算工作量证明区块奖励。这意味着，该奖励将每64倍的难度减少一半。基于CoinAge参数和权益证明难度的权益证明区块奖励。可以使用公式nRewardCoinYear = 1 /（nMaxPoSTarget / nCurrentPoSTarget）^（1/6）计算利息。这意味着，每年的利息从100％开始，每增加64倍的难度就减少一半。
-
 
 

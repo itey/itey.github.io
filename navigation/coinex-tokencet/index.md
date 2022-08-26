@@ -1,5 +1,3 @@
-# 
-
 # CoinEx Token(CET)
 
 CoinEx Token（CET）于2018年1月推出，为CoinEx Chain的原生代币。CoinEx Chain是专为去中心化交易所而打造的公链，主网于2019年11月正式上线。
@@ -12,5 +10,4 @@ CET作为CoinEx业务生态内的用户增值服务权益，可在多种场景�
 2. 用于支付CoinEx Token链上的交易手续费
 3. 用于CoinEx Chain提案的发起和投票，参与社区治理
 4. 作为抵押代币，CET持有者可参与CoinEx Chain中的staking经济
-
 

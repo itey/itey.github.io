@@ -1,5 +1,3 @@
-# 
-
 # MINTSCAN
 
 Mintscan是一个用于交易所和日常用户的Cosmos块浏览器。他们在Cosmostation的理念是提供不仅稳定而且开发的服务，重点关注最终用户的便利性。
@@ -19,4 +17,3 @@ API开发
 他们为CoinGecko和CoinMarketCap等服务开发了Mintscan私有API 。自Cosmos Hub主网推出以来，他们一直在为这些服务提供数据
 
 随着增持更多数据，他们计划为Cosmos社区和对Cosmos生态系统感兴趣的企业提供更具洞察力的信息。
-

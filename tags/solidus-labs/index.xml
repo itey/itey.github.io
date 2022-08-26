@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Solidus Labs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/solidus-labs/</link>
+        <description>Solidus Labs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 13 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/solidus-labs/" rel="self" type="application/rss+xml" /><item>
+    <title>Solidus Labs</title>
+    <link>https://www.metabd.cc/navigation/solidus-labs/</link>
+    <pubDate>Wed, 13 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/solidus-labs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/solidus-labs.jpg" referrerpolicy="no-referrer">
+            </div>Solidus 市场监控平台，由前高盛 Goldman Sachs 金融技术工程师设计，利用机器学习技术帮助发现、解决、调查和报告数字资产交易中的市场操纵行为。 Solidus Labs的使命是在]]></description>
+</item></channel>
+</rss>

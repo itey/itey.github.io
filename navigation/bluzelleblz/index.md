@@ -1,5 +1,3 @@
-# 
-
 # Bluzelle(BLZ)
 
 1.简介Bluzelle是一个基于用户需求，可扩展的去中心化数据库服务平台，将中、小型软件开发商定位其目标受众客户，旨在为其提供成本低、部署快、运行快的企业级的数据库管理服务。Bluzelle鼓励用户出租分享自己的资源以建设一个去中心化的数字经济数据库网络。BLZ代币（Bluzelle Token）支持用户于Bluzelle Networks 系统外进行交易，可通过比特币、以太币货其他数字货币来购买获得BLZ代币。
@@ -48,4 +46,3 @@ Android Studio，Apple XCode，Microsoft Xamarin和Visual Studio，Eclipse，Int
 https://www.chainnews.com/articles/161651616650.htm
 https://www.dprating.com/rating/report/48
 http://www.qukuaiwang.com.cn/szhb/2580.html###
-

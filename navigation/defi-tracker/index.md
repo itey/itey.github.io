@@ -1,5 +1,3 @@
-# 
-
 # DeFi Tracker
 
 ![](4.jpg)
@@ -13,4 +11,3 @@ DeFi Tracker 旨在跟踪不同 #DeFi 协议的所有余额，由 DexWallet 开�
 总价值锁定 (TVL)
 
 可能 TVL 是一个顶级指标，可以说明 DeFi 协议中阻止了多少资金。
-

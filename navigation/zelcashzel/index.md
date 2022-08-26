@@ -1,5 +1,3 @@
-# 
-
 # ZelCash(ZEL)
 
 Zelcash作为加密货币，在Zel生态中占据核心地位。开发ZelNode能够激励用户去创建ZelDex和ZelDev平台，使我们建立起一个真正去中心化的开发平台。Zelcash可以开采，分配公平。ZelNode增长速度快，Zelcash持有者通过开发ZelNode，能够获得部分报酬。Zelcash作为Zel生态中的交易手段，将成为Zel生态中的关键部分。
@@ -41,4 +39,3 @@ Lumi拥有超过15年的平面设计经验，领导Zel Technologies的设计团�
 Tadeás Kmenta,开发人员
 
 Tadeas来自捷克共和国，Tadeas是我们的首席开发人员，负责我们的开发团队。Tadeas是一位经验丰富的Javascript开发人员，期待通过区块链实现人员支持。
-

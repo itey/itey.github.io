@@ -1,5 +1,3 @@
-# 
-
 # AidosMarket
 
 Aidos Market 是个开源的加密货币交换平台，创建目的是使加密货币交易更加容易和可靠。
@@ -17,4 +15,3 @@ Aidos Market 是个开源的加密货币交换平台，创建目的是使加密�
 ##### Aidos市场如何运作？
 
 要开始在Aidos Market上交易加密货币，只需转到注册页面并填写简短的注册表即可。然后使用用户名和密码登录，您就设置好了！![aidosmarket-trade](aidosmarket-trade.jpg)
-

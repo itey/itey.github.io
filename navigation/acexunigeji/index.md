@@ -1,5 +1,3 @@
-# 
-
 # ACE虚拟歌姬
 
 简介
@@ -115,4 +113,3 @@ VisualBoyAdvance（GBA） • FCEUX（FC） • NesterJ（PSP用FC） • ePSXe�
 Steam • Origin • Epic
 10. 其他/综合	
 AnimeCollector • Listen.moe • ComicViewer • 喵翻 • 萌旅游 • 被窝声次元 • M.U.G.E.N • Visual Novel Reader • 骇客娃娃 • FaceRig • 时报酱 • 电卓少女
-

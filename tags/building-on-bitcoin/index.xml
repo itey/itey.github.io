@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Building on Bitcoin - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/building-on-bitcoin/</link>
+        <description>Building on Bitcoin - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/building-on-bitcoin/" rel="self" type="application/rss+xml" /><item>
+    <title>Building on Bitcoin</title>
+    <link>https://www.metabd.cc/navigation/building-on-bitcoin/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/building-on-bitcoin/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/building-on-bitcoin.png" referrerpolicy="no-referrer">
+            </div>由比特币技术社区支持的 Building on Bitcoin 峰会，重点探讨在其上构建比特币协议与应用。现场的演示文稿亦是相对技术性的，主要面向已经基本了解比特币技术实现的受]]></description>
+</item></channel>
+</rss>

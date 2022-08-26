@@ -1,5 +1,3 @@
-# 
-
 # BnkToTheFuture(BFT)
 
 项目概况BnkToTheFuture于2010年开始其使命，建立最大和最有信誉的在线投资平台，以便与其他专业投资者共同投资未来的金融和技术。BnkToTheFuture拥有超过6万名全球专业投资者的社区，全部在线投资于FinTech，比特币和区块链公司。以前的客户包括Bitfinex，Bitstamp，KraKAN，ShapeShift，Bitpay电报和其他100多个客户。
@@ -23,4 +21,3 @@
 
 我们建立了最大的高净值投资者社区，在线投资金融科技，比特币和区块链。
 当我们准备在2018年推出二级市场时，[BnkToTheFuture.com]很高兴为社区的其余部分推出BF令牌（BFT）。
-

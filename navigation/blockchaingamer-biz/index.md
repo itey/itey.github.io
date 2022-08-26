@@ -1,5 +1,3 @@
-# 
-
 # BlockchainGamer.biz
 
 BlockchainGamer.biz 致力于阐明、解释在游戏领域应用区块链技术的的世界，展示行业专业人士的最新消息、访谈和意见，以及由游戏行业资深人士 Jon Jordan 领导的精湛团队的深刻见解。
@@ -9,6 +7,5 @@ BlockchainGamer.biz 致力于阐明、解释在游戏领域应用区块链技术
 **BlockchainGamer.biz 致力于阐明和解释游戏领域应用的区块链技术世界。**
 
 该网站提供业内专业人士的最新新闻，采访和意见，游戏和技术概况，代币产品列表以及由游戏和音乐行业资深人士Daniel Griffiths领导的破解团队的有见地的功能。
-
 
 

@@ -1,5 +1,3 @@
-# 
-
 # Blockchain For Science
 
 Blockchain For Science 由 Sönke Bartling 创立，旨在面向那些想要讨论关于科学、区块链、知识创造等话题，乐于面对改变、有想法、概念和愿景的人们。
@@ -21,4 +19,3 @@ Blockchain For Science 由 Sönke Bartling 创立，旨在面向那些想要讨�
 DAO和代币经济创造了低门槛，低开销，无媒体违规，简化的科学资助方法。
 
 ![img](61ea4b1c53186b3a18ece487_Asset%204%402x.png)
-

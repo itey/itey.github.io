@@ -1,5 +1,3 @@
-# 
-
 # Zcash Community
 
 Zcash Community 帮助你获取有关 Zcash 最新的新闻与信息，包括其聊天室、论坛等，均属于 Zcash 社区的公共资源，并非 Zerocoin Electric Coin Company 拥有或维护。
@@ -13,6 +11,5 @@ Zcash Community 帮助你获取有关 Zcash 最新的新闻与信息，包括其
 同时，请环顾四周，如果您发现任何损坏的链接/错别字等，请告诉我……我希望您喜欢它并觉得它很有用。
 
 真诚的——肖恩
-
 
 

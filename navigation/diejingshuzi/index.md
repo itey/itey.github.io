@@ -1,5 +1,3 @@
-# 
-
 # 叠镜数字
 
 
@@ -133,6 +131,5 @@ CEIBS EMBA**
 - 硅谷分部：Santa Clara, CA, USA
 - 市场合作：mkt@dgene.com
 - 加入叠境：hr@dgene.com
-
 
 

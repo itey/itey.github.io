@@ -1,5 +1,3 @@
-# 
-
 # CMCT
 
 Crowd Machine由Crowd Computer、Crowd App Studio和Crowd Share组成。APP所有者支付Crowd Machine Compute Token（CMCT），用于在Crowd Computer平台上创建运行APP。CMCT作为奖励，鼓励网络上的节点运营商贡献运算资源和存储资源。APP终端用户也可以支付CMCT以激励开发人员
@@ -17,4 +15,3 @@ Crowd Machine由Crowd Computer、Crowd App Studio和Crowd Share组成。APP所�
 ##### 人群机 GO
 
 终极解决方案，使业务用户能够将智能微服务整合在一起，这些微服务可以集成和修改新的或现有的应用程序，同时保持与 IT 策略和安全协议的合规性。
-

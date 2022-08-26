@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Crypto Weekly - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/crypto-weekly/</link>
+        <description>Crypto Weekly - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/crypto-weekly/" rel="self" type="application/rss+xml" /><item>
+    <title>Crypto Weekly</title>
+    <link>https://www.metabd.cc/navigation/crypto-weekly/</link>
+    <pubDate>Wed, 20 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/crypto-weekly/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/crypto-weekly.jpg" referrerpolicy="no-referrer">
+            </div>加密货币新闻邮件组，包括比特币、以太坊等的专业行情分析，独家采访，数据研究等。 我们花了数千小时重新构建加密生态系统，因此您不必困惑您可以转化]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>OCaml Pro - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ocaml-pro/</link>
+        <description>OCaml Pro - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ocaml-pro/" rel="self" type="application/rss+xml" /><item>
+    <title>OCaml Pro</title>
+    <link>https://www.metabd.cc/navigation/ocaml-pro/</link>
+    <pubDate>Tue, 19 Jul 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/navigation/ocaml-pro/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ocaml-pro.jpg" referrerpolicy="no-referrer">
+            </div>自 2014 年以来，OCaml Pro 深入参与 Tezos 的开发工作，并帮助设计 Tezos 原型。2018 年 4 以后，OCaml Pro 一直在 Tezos 基础上为 Tezos 代码库工作，为发布做足准备。]]></description>
+</item></channel>
+</rss>

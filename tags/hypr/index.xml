@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HYPR - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/hypr/</link>
+        <description>HYPR - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/hypr/" rel="self" type="application/rss+xml" /><item>
+    <title>HYPR</title>
+    <link>https://www.metabd.cc/navigation/hypr/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/hypr/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hypr.jpg" referrerpolicy="no-referrer">
+            </div>HYPR 分布式身份验证方法，将凭证安全地存储在用户的设备上，避免了集中存储单点故障的客户凭证。企业可以大大减少他们的攻击面，更好地防欺诈、更少的密]]></description>
+</item></channel>
+</rss>

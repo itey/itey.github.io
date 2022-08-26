@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HNScan - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/hnscan/</link>
+        <description>HNScan - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/hnscan/" rel="self" type="application/rss+xml" /><item>
+    <title>HNScan</title>
+    <link>https://www.metabd.cc/navigation/hnscan/</link>
+    <pubDate>Tue, 19 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/hnscan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hnscan.jpg" referrerpolicy="no-referrer">
+            </div>HNScan 是一个由为 Handshake 的网络构建开源工具和基础设施的公司和开发人员组成的联盟。我们的使命是加速 Handshake 在各方面的应用，让普通消费者看到 Handshake 的力量。 HNScan 的区块链]]></description>
+</item></channel>
+</rss>

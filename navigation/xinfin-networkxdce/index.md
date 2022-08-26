@@ -1,5 +1,3 @@
-# 
-
 # XinFin Network(XDCE)
 
 XinFinNetwork是一家专注于国际贸易金融的区块链技术公司。XinFin发行XDCE代币，与XDC标准代币进行兑换，参与ERC20市场竞争，促进XinFin发展。
@@ -24,4 +22,3 @@ XinFin将把150亿个XDC代币（在1000亿个XDC代币总供应量中）移至X
 - 在流动性提供者的支持下。
 - 最适合投机者和交易者。
 - 与MyEtherWallet和EtherDelta即时兼容。
-

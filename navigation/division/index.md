@@ -1,5 +1,3 @@
-# 
-
 # Division
 
 Dvision Network一个基于区块链的元宇宙，在其增强现实中为强大且多样化的 NFT 市场提供动力。Dvision 基于三个主要平台功能，即 NFT Market、Meta-Space 和 Meta-City。   
@@ -27,4 +25,3 @@ Dvision 是基于元界的 MICE 活动的早期采用者，迄今已举办过最
 Dvision 是为数不多的多链元节项目之一，它在 5 个不同的区块链网络上运行其 Dapp。
 
 Dvision 允许线下业务顺利过渡到虚拟世界，提供具有高产品质量的尖端和坦率的 UI，通过提供高度多样化的内容组合来增强游戏内通信功能
-

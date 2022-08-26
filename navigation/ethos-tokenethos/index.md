@@ -1,5 +1,3 @@
-# 
-
 # ETHOS Token(ETHOS)
 
 ### 1.简介
@@ -24,4 +22,3 @@ https://www.ethos.io/Ethos_Whitepaper.pdf
 将ETHOS存入您的帐户并将其出售给美元，以购买Voyager的25多种可用加密资产中的任何一种，或将您的ETHOS转移到您选择的钱包中！ETHOS，BTC，ETH，BCH，ETC，LTC和DASH现在可用于存款和取款。
 
 Ethos成立于2017年，是领先的加密货币钱包和区块链金融服务平台提供商。Ethos Universal Wallet是一款移动加密钱包应用程序，使用户能够免费安全地存储，跟踪，发送和接收加密资产。 Universal Wallet建立在[Bedrock之上，Bedrock]是一个平台，使区块链对个人和金融机构来说都更容易访问和安全。
-

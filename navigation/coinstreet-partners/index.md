@@ -1,5 +1,3 @@
-# 
-
 # Coinstreet Partners
 
 Coinstreet成立于2017年，是一家屡获殊荣的分散式投资银行集团，一家面向私人财富的高端金融服务公司，以及数字资产领域的专业咨询和咨询公司。
@@ -12,4 +10,3 @@ Coinstreet通过与Document Security Systems，Inc.（NYSE：DSS）和GSX集团�
 
 Coinstreet Partners在许多成功的数字资产项目中拥有坚实的业绩记录。我们很乐意倾听并了解您在数字资产和STO领域的计划和目标，我们将提供满足您需求的最佳财务，业务和技术解决方案。
 我们也对新的伙伴关系和协作持开放态度！
-

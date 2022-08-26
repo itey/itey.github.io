@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Waves Explorer - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/waves-explorer/</link>
+        <description>Waves Explorer - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 07 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/waves-explorer/" rel="self" type="application/rss+xml" /><item>
+    <title>Waves Explorer</title>
+    <link>https://www.metabd.cc/navigation/waves-explorer/</link>
+    <pubDate>Thu, 07 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>MineW</name><uri>https://www.metabd.cc/authors/minew</uri></author><guid>https://www.metabd.cc/navigation/waves-explorer/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/waves-explorer.jpg" referrerpolicy="no-referrer">
+            </div>Waves Explorer 允许在主网、测试网之间轻松切换。 此外，还提供方便的工具，使用户可以为自定义网络配置资源管理器，这意味着可以跟踪任何网络或节点。 由于 Waves 是世]]></description>
+</item></channel>
+</rss>
