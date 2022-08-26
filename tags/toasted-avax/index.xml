@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Toasted AVAX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/toasted-avax/</link>
+        <description>Toasted AVAX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/toasted-avax/" rel="self" type="application/rss+xml" /><item>
+    <title>Toasted AVAX</title>
+    <link>https://www.metabd.cc/nfts/toasted-avax/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/toasted-avax/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/toasted-avax.png" referrerpolicy="no-referrer">
+            </div>Toasted AVAX 是 Token Miner 元数据的有趣旋转。 它是一个简单的智能合约，充当 AVAX 奖励池，只要合约中仍有 AVAX 锁定，每天都会返回池中 5%* 的 AVAX！ 用户可以选择吃他们的吐]]></description>
+</item></channel>
+</rss>

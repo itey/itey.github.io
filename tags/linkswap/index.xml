@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LinkSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/linkswap/</link>
+        <description>LinkSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/linkswap/" rel="self" type="application/rss+xml" /><item>
+    <title>LinkSwap</title>
+    <link>https://www.metabd.cc/nfts/linkswap/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/linkswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/linkswap.png" referrerpolicy="no-referrer">
+            </div>LINKSWAP 平台具有独特的功能，旨在解决我们这个时代第二代 AMM 面临的痛点——无论是对于 LINK 持有者，还是对于整个 DeFi 社区。一些主要功能包括 SlipLock，它]]></description>
+</item></channel>
+</rss>

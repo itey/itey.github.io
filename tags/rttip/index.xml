@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rttip - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/rttip/</link>
+        <description>Rttip - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/rttip/" rel="self" type="application/rss+xml" /><item>
+    <title>Rttip</title>
+    <link>https://www.metabd.cc/nfts/rttip/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/rttip/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/rttip.png" referrerpolicy="no-referrer">
+            </div>[公测] Rttip 是一个 ETH 打赏 dapps 来影响你的推文。您可以通过创建以 ETH 作为奖励的 RT 扩散请求或转发请求的推文来获得 ETH。需要事先登录 Rttip 才能接收 ETH。如]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ToCandy - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tocandy/</link>
+        <description>ToCandy - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tocandy/" rel="self" type="application/rss+xml" /><item>
+    <title>ToCandy</title>
+    <link>https://www.metabd.cc/nfts/tocandy/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tocandy/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tocandy.png" referrerpolicy="no-referrer">
+            </div>什么是ToCandy？ ToCandy 是一个用于 tron 代币分发的 dapp。 ToCandy 每天分发糖果代币。 用户可以在收到糖果后直接参与dapp游戏或交易。 ToCandy 致力于推动 tron dapp]]></description>
+</item></channel>
+</rss>

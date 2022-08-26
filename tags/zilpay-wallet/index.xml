@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ZilPay Wallet - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/zilpay-wallet/</link>
+        <description>ZilPay Wallet - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/zilpay-wallet/" rel="self" type="application/rss+xml" /><item>
+    <title>ZilPay Wallet</title>
+    <link>https://www.metabd.cc/nfts/zilpay-wallet/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/zilpay-wallet/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/zilpay-wallet.png" referrerpolicy="no-referrer">
+            </div>ZilPay Wallet 是 zilliqa 区块链上的开源钱包去中心化应用程序。生态系统中的每个 Dapp 都从 ZilPay 中受益，因为它们围绕它构建 用于 zilliqa 区块链的 ZilPay 浏览器扩展 该扩展将 Zilliqa web3 API 注入到]]></description>
+</item></channel>
+</rss>

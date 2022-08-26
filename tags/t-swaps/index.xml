@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>T-Swaps - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/t-swaps/</link>
+        <description>T-Swaps - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/t-swaps/" rel="self" type="application/rss+xml" /><item>
+    <title>T-Swaps</title>
+    <link>https://www.metabd.cc/nfts/t-swaps/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/t-swaps/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/t-swaps.png" referrerpolicy="no-referrer">
+            </div>T-Swaps 的目标是成为 Telos 上流动性最高的 AMM 互换池。该平台支持打包的 BTC、ETH 和 EOS，以实现与其他区块链更好的互操作性。我们提供传统的掉期池以及低]]></description>
+</item></channel>
+</rss>

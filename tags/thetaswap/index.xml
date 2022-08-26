@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ThetaSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/thetaswap/</link>
+        <description>ThetaSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/thetaswap/" rel="self" type="application/rss+xml" /><item>
+    <title>ThetaSwap</title>
+    <link>https://www.metabd.cc/nfts/thetaswap/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/thetaswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/thetaswap.png" referrerpolicy="no-referrer">
+            </div>ThetaSwap 是第一个建立在 Theta 区块链上的去中心化交易所，使用基于类似于 UniSwap 的自动做市商逻辑构建的开源智能合约系统。 它允许用户以无需信任、非托管的方式交换他]]></description>
+</item></channel>
+</rss>

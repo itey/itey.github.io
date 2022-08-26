@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TripleFi - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/triplefi/</link>
+        <description>TripleFi - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/triplefi/" rel="self" type="application/rss+xml" /><item>
+    <title>TripleFi</title>
+    <link>https://www.metabd.cc/nfts/triplefi/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/triplefi/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/triplefi.png" referrerpolicy="no-referrer">
+            </div>TripleFi 是一种衍生 DEX，它使用户能够以高达 25 倍的杠杆率交易加密货币，并投资 LP 池以获得可观的回报。 目前 TripleFi 在 Polygon Network 上可用，您可以在 Ethereum Rinkeby 测试网络上进行刺]]></description>
+</item></channel>
+</rss>

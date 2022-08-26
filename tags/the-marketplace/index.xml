@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>The Marketplace - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/the-marketplace/</link>
+        <description>The Marketplace - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/the-marketplace/" rel="self" type="application/rss+xml" /><item>
+    <title>The Marketplace</title>
+    <link>https://www.metabd.cc/nfts/the-marketplace/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/the-marketplace/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/the-marketplace.png" referrerpolicy="no-referrer">
+            </div>Marketplace 是 Harmony 网络上所有生成 NFT 的 NFT 市场。任何 ERC-721 代币都可以在市场上上市。您可以在所有 NFT 上出售、购买、拍卖和出价。 Marketplace 是 Harmony 上第一个持有所有 ERC-721 代币的平台，而]]></description>
+</item></channel>
+</rss>

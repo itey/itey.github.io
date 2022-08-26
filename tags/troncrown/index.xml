@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TronCrown - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/troncrown/</link>
+        <description>TronCrown - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/troncrown/" rel="self" type="application/rss+xml" /><item>
+    <title>TronCrown</title>
+    <link>https://www.metabd.cc/nfts/troncrown/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/troncrown/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/troncrown.png" referrerpolicy="no-referrer">
+            </div>基本奖金率： 每 24 小时 +2%（每小时 +0.0833%） TronCrown 智能合约计算出所有金额。自完成日期和时间以来完成的每项贡献都有资格获得奖金百分比。每小]]></description>
+</item></channel>
+</rss>

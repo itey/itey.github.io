@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vineyard Miner - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/vineyard-miner/</link>
+        <description>Vineyard Miner - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/vineyard-miner/" rel="self" type="application/rss+xml" /><item>
+    <title>Vineyard Miner</title>
+    <link>https://www.metabd.cc/nfts/vineyard-miner/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/vineyard-miner/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/vineyard-miner.png" referrerpolicy="no-referrer">
+            </div>The Vineyard 是一个锁定的质押奖励池，利率可变。存入的资金将转入 Winemakers 且不能取消质押，您只能提取您的收益。 我们是大多数代币矿工的创新产品。该合约充当 MATIC 奖励]]></description>
+</item></channel>
+</rss>

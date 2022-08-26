@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Starbank - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/starbank/</link>
+        <description>Starbank - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/starbank/" rel="self" type="application/rss+xml" /><item>
+    <title>Starbank</title>
+    <link>https://www.metabd.cc/nfts/starbank/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/starbank/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/starbank.png" referrerpolicy="no-referrer">
+            </div>Starbank 是 Astar Network 的自动做市 (AMM) 去中心化交易所 (DEX)。 我们的使命是成为聪明投资者的 DeFi 投资之家。 我们已获准加入 Astar Builders Program。 https://forum.astar.network/t/starbank-builders-project-application/2829 Starbank 有几种类型的池，]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,6 @@
+# You by BFF
+
+BFF的首个NFT系列，You，在我们的社区和世界范围内庆祝女性和非二进制朋友的独特性。艺术家Jade Purple Brown以其著名的风格为系列中的10000件独特作品带来了充满活力的色彩和动态表现。
+每个NFT都有独特的内置特权，以及BFF宇宙中的效用。在全球范围内，消费者正在发现DAPP，并使用DappRadar管理其NFT/DeFi投资组合。每月有超过500000名用户访问我们，我们的数据为领先的行业合作伙伴提供支持，我们的季度报告是多链dapp市场洞察方面值得信赖的权威。
+
+![youbybff-dapp-collectibles-ethereum-image1_b34b0ff7817a238affd9a8f897084bf1](youbybff-dapp-collectibles-ethereum-image1_b34b0ff7817a238affd9a8f897084bf1.png)

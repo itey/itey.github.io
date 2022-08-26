@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SpicySwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/spicyswap/</link>
+        <description>SpicySwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/spicyswap/" rel="self" type="application/rss+xml" /><item>
+    <title>SpicySwap</title>
+    <link>https://www.metabd.cc/nfts/spicyswap/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/spicyswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/spicyswap.png" referrerpolicy="no-referrer">
+            </div>SpicySwap 是 Genius Contracts 专门为 Tezos 上的代币交换构建的下一代 DEX。 SpicySwap 由 SalsaDAO ($sDAO) 管理，它是更广泛的 Genius Contracts 平台和产品套件的管理实体。 SpicySwap 协议受到 Uniswap V2 通用框架的启发，但合约]]></description>
+</item></channel>
+</rss>

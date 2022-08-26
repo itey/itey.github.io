@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YieldWolf - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/yieldwolf/</link>
+        <description>YieldWolf - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/yieldwolf/" rel="self" type="application/rss+xml" /><item>
+    <title>YieldWolf</title>
+    <link>https://www.metabd.cc/nfts/yieldwolf/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/yieldwolf/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/yieldwolf.png" referrerpolicy="no-referrer">
+            </div>YieldWolf 是下一代 DeFi 自动化平台。 它有效地根据最知名的协议自动执行单产农业策略。 YieldWolf 通过以最优利率自动组合奖励并在池中的所有农民之间分配 gas 成本来增加潜在]]></description>
+</item></channel>
+</rss>

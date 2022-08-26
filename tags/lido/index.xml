@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LIDO - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lido/</link>
+        <description>LIDO - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lido/" rel="self" type="application/rss+xml" /><item>
+    <title>LIDO</title>
+    <link>https://www.metabd.cc/nfts/lido/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/lido/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lido.png" referrerpolicy="no-referrer">
+            </div>Lido Ethereum Liquid Staking Protocol 建立在 Ethereum 2.0 的 Beacon 链上，允许其用户在 Beacon 链上获得 Staking 奖励，而无需锁定 Ether 或维护 Staking 基础设施。 用户可以将以太币存入 Lido 智能合约，并获得 stETH 代币作为回]]></description>
+</item></channel>
+</rss>

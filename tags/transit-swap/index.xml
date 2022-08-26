@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Transit Swap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/transit-swap/</link>
+        <description>Transit Swap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/transit-swap/" rel="self" type="application/rss+xml" /><item>
+    <title>Transit Swap</title>
+    <link>https://www.metabd.cc/nfts/transit-swap/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/transit-swap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/transit-swap.png" referrerpolicy="no-referrer">
+            </div>Transit Swap集成了绝大多数公链受用户喜爱的DEX，我们选取了他们的优势并智能地结合在一起，为您的交易提供更好的深度，返回更多的目标token。]]></description>
+</item></channel>
+</rss>

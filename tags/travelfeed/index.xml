@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TravelFeed - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/travelfeed/</link>
+        <description>TravelFeed - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/travelfeed/" rel="self" type="application/rss+xml" /><item>
+    <title>TravelFeed</title>
+    <link>https://www.metabd.cc/nfts/travelfeed/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/travelfeed/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/travelfeed.png" referrerpolicy="no-referrer">
+            </div>什么是 TravelFeed？ TravelFeed是独立旅行者为独立旅行者打造的社区平台。 每个用户都可以通过 Steem 区块链托管和货币化自己的免费旅游]]></description>
+</item></channel>
+</rss>

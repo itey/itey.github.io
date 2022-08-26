@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>STAYK - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/stayk/</link>
+        <description>STAYK - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/stayk/" rel="self" type="application/rss+xml" /><item>
+    <title>STAYK</title>
+    <link>https://www.metabd.cc/nfts/stayk/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/stayk/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/stayk.png" referrerpolicy="no-referrer">
+            </div>具有通缩成分的有限供应增长 STAYK 是权益证明代币，只要您持有它，它就会奖励您。 STAYK 与以太坊网络的区块大小相关。 STAYK 的总供应量永远不会超过区块大小 * 10]]></description>
+</item></channel>
+</rss>

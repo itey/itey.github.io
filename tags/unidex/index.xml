@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>UniDex - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/unidex/</link>
+        <description>UniDex - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/unidex/" rel="self" type="application/rss+xml" /><item>
+    <title>UniDex</title>
+    <link>https://www.metabd.cc/nfts/unidex/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/unidex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/unidex.png" referrerpolicy="no-referrer">
+            </div>UniDex 提供了一个替代且信息丰富的界面，可以与您已经很受欢迎的 DeFi 项目（如 1inch、Perp.fi 和 Opyn）进行交互。 UniDex 旨在将 CeFi 交易中提供的功能]]></description>
+</item></channel>
+</rss>

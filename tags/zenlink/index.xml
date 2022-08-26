@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Zenlink - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/zenlink/</link>
+        <description>Zenlink - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/zenlink/" rel="self" type="application/rss+xml" /><item>
+    <title>Zenlink</title>
+    <link>https://www.metabd.cc/nfts/zenlink/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/zenlink/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/zenlink.png" referrerpolicy="no-referrer">
+            </div>Zenlink 是基于 Polkadot 的底层跨链 DEX 协议，致力于成为 Polkadot 的 DEX 可组合枢纽。 Zenlink DEX 协议通过接入基于 Substrate 的终极、开放、通用的跨链 DEX 协议，使所有平行链能够一键构建 DEX 并实]]></description>
+</item></channel>
+</rss>

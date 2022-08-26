@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Woonkly - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/woonkly/</link>
+        <description>Woonkly - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/woonkly/" rel="self" type="application/rss+xml" /><item>
+    <title>Woonkly</title>
+    <link>https://www.metabd.cc/nfts/woonkly/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/woonkly/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/woonkly.png" referrerpolicy="no-referrer">
+            </div>Woonkly Metasocial Network 是一个去中心化的社交网络，所有帖子都直接转换为 NFT，用户可以完全控制他们的数据，并且内容不会上传到服务器，而是通过 IPFS（星际文件]]></description>
+</item></channel>
+</rss>

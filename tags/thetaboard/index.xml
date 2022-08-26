@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Thetaboard - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/thetaboard/</link>
+        <description>Thetaboard - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/thetaboard/" rel="self" type="application/rss+xml" /><item>
+    <title>Thetaboard</title>
+    <link>https://www.metabd.cc/nfts/thetaboard/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/thetaboard/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/thetaboard.png" referrerpolicy="no-referrer">
+            </div>Thetaboard 是 Theta 名称服务 (TNS) 域的所在地，这是 Theta 网络上唯一可用的基于区块链的域。 Thetaboard 还托管用于代币社区质押的 Guardian 节点和 Elite Edge 节点、NFT 市场，以及用于监控质押回]]></description>
+</item></channel>
+</rss>

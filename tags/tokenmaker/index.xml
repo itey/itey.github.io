@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TokenMaker - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tokenmaker/</link>
+        <description>TokenMaker - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tokenmaker/" rel="self" type="application/rss+xml" /><item>
+    <title>TokenMaker</title>
+    <link>https://www.metabd.cc/nfts/tokenmaker-1/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tokenmaker-1/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tokenmaker-1.png" referrerpolicy="no-referrer">
+            </div>TokenMaker 是基于智能合约在以太坊网络上创建您自己的 ERC-20 或 ERC-223 代币的最简单、最快捷的方式。 无需编程技能 获得生成代币的 100% 所有权 自定义代币名称、符号和初始供应]]></description>
+</item></channel>
+</rss>

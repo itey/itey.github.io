@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MilkFarm - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/milkfarm/</link>
+        <description>MilkFarm - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/milkfarm/" rel="self" type="application/rss+xml" /><item>
+    <title>MilkFarm</title>
+    <link>https://www.metabd.cc/nfts/milkfarm/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/milkfarm/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/milkfarm.png" referrerpolicy="no-referrer">
+            </div>Milk Farm 是 BSCScan 上的开源、不可变农业平台 规则很简单。为了有更多的牛奶需要有更多的奶牛，所以你可以把它卖给不同的公司。 您是农民，您需要购买奶牛才能获得]]></description>
+</item></channel>
+</rss>

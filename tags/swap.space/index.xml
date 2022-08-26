@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Swap.Space - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/swap.space/</link>
+        <description>Swap.Space - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/swap.space/" rel="self" type="application/rss+xml" /><item>
+    <title>Swap.Space</title>
+    <link>https://www.metabd.cc/nfts/swap-space/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/swap-space/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/swap-space.png" referrerpolicy="no-referrer">
+            </div>跨链稳定币兑换协议。 您可以将 ERC20-USDT 兑换成 TRC20-USDT，或将 TRC20-USDT 兑换成 ERC20-USDT。 当您在我们的池中添加流动性时，您可以获得平台代币]]></description>
+</item></channel>
+</rss>

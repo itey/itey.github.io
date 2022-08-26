@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lock - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lock/</link>
+        <description>Lock - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lock/" rel="self" type="application/rss+xml" /><item>
+    <title>Lock</title>
+    <link>https://www.metabd.cc/nfts/lock/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/lock/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/lock.png" referrerpolicy="no-referrer">
+            </div>Lock 是一种用于对 ETH 和 ERC-20 代币进行时间锁定的协议。选择要锁定的令牌以及它将存储在合约中的持续时间。然后只需确认交易。时间锁定完成后，您（或指定的受]]></description>
+</item></channel>
+</rss>

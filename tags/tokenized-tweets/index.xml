@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tokenized Tweets - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tokenized-tweets/</link>
+        <description>Tokenized Tweets - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tokenized-tweets/" rel="self" type="application/rss+xml" /><item>
+    <title>Tokenized Tweets</title>
+    <link>https://www.metabd.cc/nfts/tokenized-tweets/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tokenized-tweets/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tokenized-tweets.png" referrerpolicy="no-referrer">
+            </div>什么是标记化推文？ 只需在 Twitter 上回复特定推文，同时标记@tokenizedtweets，Matic Network 就会生成一个包含推文内容的 NFT。 有一个内置]]></description>
+</item></channel>
+</rss>

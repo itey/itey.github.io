@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LetsMineSome - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/letsminesome/</link>
+        <description>LetsMineSome - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/letsminesome/" rel="self" type="application/rss+xml" /><item>
+    <title>LetsMineSome</title>
+    <link>https://www.metabd.cc/nfts/letsminesome/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/letsminesome/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/letsminesome.png" referrerpolicy="no-referrer">
+            </div>感谢我们的矿池合约，挖矿 GRV 从未如此简单！我们的合约是通过不断向 gravyhftdefi 合约发送 TX 来挖掘 GRV，TX 的频率基于矿池 CPU 容量。两台服务器在后端并行运行，]]></description>
+</item></channel>
+</rss>

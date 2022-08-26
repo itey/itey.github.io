@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Yeti Finance - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/yeti-finance/</link>
+        <description>Yeti Finance - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/yeti-finance/" rel="self" type="application/rss+xml" /><item>
+    <title>Yeti Finance</title>
+    <link>https://www.metabd.cc/nfts/yeti-finance/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/yeti-finance/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/yeti-finance.png" referrerpolicy="no-referrer">
+            </div>Yeti Finance 是一种基于 Avalanche 的尖端去中心化借贷协议，允许用户以 LP 代币、Liquid AVAX 等质押资产和 WETH 等基础资产借入高达 11 倍的利率，以及 20 倍以上的收益稳定币]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Leviathan - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/leviathan/</link>
+        <description>Leviathan - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/leviathan/" rel="self" type="application/rss+xml" /><item>
+    <title>Leviathan</title>
+    <link>https://www.metabd.cc/nfts/leviathan/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/leviathan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/leviathan.png" referrerpolicy="no-referrer">
+            </div>Leviathan 是一个受 TITANO 启发的质押协议。由来自 TempliersCrypto 的 doxxed 团队构建，并由 Solidity Finance 审计。每 30 分钟通过奖励赚取固定的 151,631% APY。 最近没有太多消息，因为大海（和市场）很平]]></description>
+</item></channel>
+</rss>

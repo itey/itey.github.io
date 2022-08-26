@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SCREAM - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/scream/</link>
+        <description>SCREAM - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/scream/" rel="self" type="application/rss+xml" /><item>
+    <title>SCREAM</title>
+    <link>https://www.metabd.cc/nfts/scream/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/scream/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/scream.png" referrerpolicy="no-referrer">
+            </div>SCREAM 是一个基于 Fantom 的借贷协议，适用于 Fantom。 SCREAM 提供完全去中心化、透明和非托管的点对点借贷解决方案。 SCREAM 旨在为更传统的加密资产借贷服务建立高速]]></description>
+</item></channel>
+</rss>

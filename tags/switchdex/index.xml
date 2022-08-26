@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SwitchDex - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/switchdex/</link>
+        <description>SwitchDex - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/switchdex/" rel="self" type="application/rss+xml" /><item>
+    <title>SwitchDex</title>
+    <link>https://www.metabd.cc/nfts/switchdex/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/switchdex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/switchdex.png" referrerpolicy="no-referrer">
+            </div>SwitchDex 是运行在以太坊区块链上的去中心化交易所。这个项目是从 veridex 分叉出来的，它的目标是成为最完整的基于 0x 的开源 dex。 这个 repo 附带一个 ERC-20 代币交易界面和]]></description>
+</item></channel>
+</rss>

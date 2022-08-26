@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YoungParrot - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/youngparrot/</link>
+        <description>YoungParrot - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/youngparrot/" rel="self" type="application/rss+xml" /><item>
+    <title>YoungParrot</title>
+    <link>https://www.metabd.cc/nfts/youngparrot/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/youngparrot/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/youngparrot.png" referrerpolicy="no-referrer">
+            </div>YoungParrot 是 Bitgert 链上的 NFT 市场，BRC20。我们将允许用户创建账户、创建收藏、开始上传 NFT 和出售/购买 NFT。用户可以将任何 NFT 添加到关注列表，将任何 NFT 共享]]></description>
+</item></channel>
+</rss>

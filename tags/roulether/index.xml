@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Roulether - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/roulether/</link>
+        <description>Roulether - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/roulether/" rel="self" type="application/rss+xml" /><item>
+    <title>Roulether</title>
+    <link>https://www.metabd.cc/nfts/roulether/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/roulether/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/roulether.png" referrerpolicy="no-referrer">
+            </div>Polygon (Matic) 网络上的分散式轮盘投注游戏。每卷都使用由 Chainlink VRF 提供支持的可证明公平且可验证的随机源 一种分散式投注轮盘游戏，它使用可证明公平且可验证的智能合]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>T-Starter - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/t-starter/</link>
+        <description>T-Starter - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/t-starter/" rel="self" type="application/rss+xml" /><item>
+    <title>T-Starter</title>
+    <link>https://www.metabd.cc/nfts/t-starter/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/t-starter/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/t-starter.png" referrerpolicy="no-referrer">
+            </div>T-Starter 是一个跨链项目启动板，在 WAX、Telos 和 EOS 上运行。我们为项目提供固定比率互换池的自我上市，包括软上限、硬上限、账户白名单和代币归属。用]]></description>
+</item></channel>
+</rss>

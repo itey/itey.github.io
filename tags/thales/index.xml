@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Thales - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/thales/</link>
+        <description>Thales - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/thales/" rel="self" type="application/rss+xml" /><item>
+    <title>Thales</title>
+    <link>https://www.metabd.cc/nfts/thales/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/thales/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/thales.png" referrerpolicy="no-referrer">
+            </div>Thales 是目前部署在 Optimism 上的以太坊协议，允许创建点对点的派利互惠货币市场。 parimutuel 市场是将抵押品放置在一个共享池中的市场，直到市场结算事件发生后才能确定对]]></description>
+</item></channel>
+</rss>

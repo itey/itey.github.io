@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mdex - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/mdex/</link>
+        <description>Mdex - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/mdex/" rel="self" type="application/rss+xml" /><item>
+    <title>Mdex</title>
+    <link>https://www.metabd.cc/nfts/mdex/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/mdex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mdex.png" referrerpolicy="no-referrer">
+            </div>MDEX 是一种基于自动化做市机制的去中心化交易协议。旨在整合多种基础公链的显着优势，打造高性能复合DEX生态系统。采用“流动性挖矿和交易挖矿的双重]]></description>
+</item></channel>
+</rss>

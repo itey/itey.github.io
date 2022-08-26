@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Trickle - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/trickle/</link>
+        <description>Trickle - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/trickle/" rel="self" type="application/rss+xml" /><item>
+    <title>Trickle</title>
+    <link>https://www.metabd.cc/nfts/trickle/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/trickle/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/trickle.png" referrerpolicy="no-referrer">
+            </div>Trickle 是一个区块链应用程序，可让两方创建安全的固定小时费率协议。智能合约为接收者锁定奖励，并按时间线性比例释放。 Trickle 适用于以太坊网络之上的任何稳定]]></description>
+</item></channel>
+</rss>

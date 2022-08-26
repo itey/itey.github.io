@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SOLucky - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/solucky/</link>
+        <description>SOLucky - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/solucky/" rel="self" type="application/rss+xml" /><item>
+    <title>SOLucky</title>
+    <link>https://www.metabd.cc/nfts/solucky/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/solucky/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/solucky.png" referrerpolicy="no-referrer">
+            </div>SOLucky 是 Solana 上的第一款乐透游戏。 真正的公平 - 通过块哈希抽奖 高速 - 每个周期不到 1 分钟，实际上是每个周期 100 个 Solana 块 高奖励 - 58x 奖励，因为 Solana 区块哈希是 base58 格式]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TweetN Dashboard - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tweetn-dashboard/</link>
+        <description>TweetN Dashboard - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tweetn-dashboard/" rel="self" type="application/rss+xml" /><item>
+    <title>TweetN Dashboard</title>
+    <link>https://www.metabd.cc/nfts/tweetn-dashboard/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tweetn-dashboard/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tweetn-dashboard.png" referrerpolicy="no-referrer">
+            </div>TweetN 是一个 Defi 协议，旨在结合两大行业：广告和区块链。 用户可以通过发布推文来赚钱。 在我们的 Dapp 上使用我们的键盘 NFT 赚取 $TweetN。 TweetN Dashboard — 一种 Defi 协议]]></description>
+</item></channel>
+</rss>

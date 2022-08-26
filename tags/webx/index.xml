@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WebX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/webx/</link>
+        <description>WebX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/webx/" rel="self" type="application/rss+xml" /><item>
+    <title>WebX</title>
+    <link>https://www.metabd.cc/nfts/webx/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/webx/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/webx.png" referrerpolicy="no-referrer">
+            </div>问题解决了 WebX 是一个支持 DID（去中心化身份）的社交网络，具有创新的 NFT 经济。以无缝连接 Web2 和 Web3 为使命，WebX 提供了一个实现互操作性的门户，将社]]></description>
+</item></channel>
+</rss>

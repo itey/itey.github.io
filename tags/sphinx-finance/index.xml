@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Sphinx Finance - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/sphinx-finance/</link>
+        <description>Sphinx Finance - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/sphinx-finance/" rel="self" type="application/rss+xml" /><item>
+    <title>Sphinx Finance</title>
+    <link>https://www.metabd.cc/nfts/sphinx-finance/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/sphinx-finance/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sphinx-finance.png" referrerpolicy="no-referrer">
+            </div>Sphinx 旨在设计一款能够应对当前 Defi 资产规模并随着其增长而适应未来 Defi 运行环境的预言机。 预言机应该具有与使用预言机协议的资产大小相同数量级的抗攻击性。]]></description>
+</item></channel>
+</rss>

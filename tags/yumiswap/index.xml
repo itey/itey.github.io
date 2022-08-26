@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YumiSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/yumiswap/</link>
+        <description>YumiSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/yumiswap/" rel="self" type="application/rss+xml" /><item>
+    <title>YumiSwap</title>
+    <link>https://www.metabd.cc/nfts/yumiswap/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/yumiswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/yumiswap.png" referrerpolicy="no-referrer">
+            </div>即时交换代币：无需注册或账户。只需连接您的 MetaMask 钱包即可。 YumiSwap 是一个供用户交易、赚钱和游戏的加密世界。它是 ASTAR 上具有 AMM、NFT 和 GameFi 等功能的项目的]]></description>
+</item></channel>
+</rss>

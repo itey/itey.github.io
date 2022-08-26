@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Solarbeam - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/solarbeam/</link>
+        <description>Solarbeam - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/solarbeam/" rel="self" type="application/rss+xml" /><item>
+    <title>Solarbeam</title>
+    <link>https://www.metabd.cc/nfts/solarbeam/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/solarbeam/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/solarbeam.png" referrerpolicy="no-referrer">
+            </div>Solarbeam 是一个去中心化交易所，提供流动性并支持 Moonriver 网络上的点对点交易。我们目前是网络上领先的 DEX。 目标是为加密货币社区提供一个全面便捷的一站式平台]]></description>
+</item></channel>
+</rss>

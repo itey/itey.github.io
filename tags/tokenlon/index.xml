@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tokenlon - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tokenlon/</link>
+        <description>Tokenlon - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tokenlon/" rel="self" type="application/rss+xml" /><item>
+    <title>Tokenlon</title>
+    <link>https://www.metabd.cc/nfts/tokenlon/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tokenlon/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tokenlon.png" referrerpolicy="no-referrer">
+            </div>打开 imToken 或 Tokenlon.im 并点击“市场”在 Tokenlon DEX 上交易。 Tokenlon 是一个去中心化的交易所，具有链下限价单和基于 0x 的链上结算以及来自 Uniswap 和 Curve 等其他 DEX 的聚合量。 其模块化设计]]></description>
+</item></channel>
+</rss>

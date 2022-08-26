@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SpiritSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/spiritswap/</link>
+        <description>SpiritSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/spiritswap/" rel="self" type="application/rss+xml" /><item>
+    <title>SpiritSwap</title>
+    <link>https://www.metabd.cc/nfts/spiritswap/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/spiritswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/spiritswap.png" referrerpolicy="no-referrer">
+            </div>SpiritSwap 是 Fantom Opera 链上的去中心化交易所（DEX）。 SpiritSwap 的设计基于 Uniswap 恒积自动做市商 (AMM)。在 AMM 中，流动性提供者只需存入一对代币，算法就会自动为这对代币]]></description>
+</item></channel>
+</rss>

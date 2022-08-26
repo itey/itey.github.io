@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WinSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/winswap/</link>
+        <description>WinSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/winswap/" rel="self" type="application/rss+xml" /><item>
+    <title>WinSwap</title>
+    <link>https://www.metabd.cc/nfts/winswap/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/winswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/winswap.png" referrerpolicy="no-referrer">
+            </div>我们的目标是支持 DeFi 市场中的所有代币并降低进入门槛。 WinSwap 支持 5 条链中超过 10K 的代币：以太坊、币安智能链、Polygon、Fantom 和 Avalan]]></description>
+</item></channel>
+</rss>

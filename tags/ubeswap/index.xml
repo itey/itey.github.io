@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ubeswap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ubeswap/</link>
+        <description>Ubeswap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ubeswap/" rel="self" type="application/rss+xml" /><item>
+    <title>Ubeswap</title>
+    <link>https://www.metabd.cc/nfts/ubeswap/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/ubeswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ubeswap.png" referrerpolicy="no-referrer">
+            </div>Ubeswap 的使命是通过让用户更便宜、更容易地交换、耕种和访问链上新的金融市场来提高 DeFi 的采用率和流动性。 Ubeswap 是 Celo 资产的去中心化交易所和自动化做市商协议。]]></description>
+</item></channel>
+</rss>

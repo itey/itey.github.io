@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TroGen - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/trogen/</link>
+        <description>TroGen - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/trogen/" rel="self" type="application/rss+xml" /><item>
+    <title>TroGen</title>
+    <link>https://www.metabd.cc/nfts/trogen/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/trogen/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/trogen.png" referrerpolicy="no-referrer">
+            </div>第一个基于闲置百分比的智能合约，其中挖矿百分比根据智能合约上的 tron 余额增加，反之亦然，以及 10% 的存款作为股息分配给矿工。 Tron 闲置平台： 高吞吐量是通]]></description>
+</item></channel>
+</rss>

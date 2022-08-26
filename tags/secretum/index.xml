@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Secretum - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/secretum/</link>
+        <description>Secretum - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/secretum/" rel="self" type="application/rss+xml" /><item>
+    <title>Secretum</title>
+    <link>https://www.metabd.cc/nfts/secretum/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/secretum/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/secretum.png" referrerpolicy="no-referrer">
+            </div>Secretum – 去中心化、加密的消息传递和场外交易 dApp。 Secretum 的使命是让去中心化的消息传递和交易变得无缝。它兼容 DeFi 和元界，被定位为 Web 3.0 时代的首选解决方案]]></description>
+</item></channel>
+</rss>

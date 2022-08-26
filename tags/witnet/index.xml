@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Witnet - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/witnet/</link>
+        <description>Witnet - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/witnet/" rel="self" type="application/rss+xml" /><item>
+    <title>Witnet</title>
+    <link>https://www.metabd.cc/nfts/witnet/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/witnet/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/witnet.png" referrerpolicy="no-referrer">
+            </div>WITNET协议创建了一个覆盖网络，该网络将智能合约连接到任何在线数据源。运动结果，股票价格，天气预报，随机源甚至其他区块链可以轻松查询（最]]></description>
+</item></channel>
+</rss>

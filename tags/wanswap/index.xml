@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WanSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/wanswap/</link>
+        <description>WanSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/wanswap/" rel="self" type="application/rss+xml" /><item>
+    <title>WanSwap</title>
+    <link>https://www.metabd.cc/nfts/wanswap/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>“boogArno”</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/wanswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/wanswap.png" referrerpolicy="no-referrer">
+            </div>Wanswap 是一个基于 Wanchain 区块链的去中心化跨链 AMM DEX。除了交换代币和提供流动性外，WanSwap 还具有农业和 Staking 功能。它充分利用了 Wanchain 的跨链特性，以便使用]]></description>
+</item></channel>
+</rss>

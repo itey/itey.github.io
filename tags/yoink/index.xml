@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Yoink - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/yoink/</link>
+        <description>Yoink - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/yoink/" rel="self" type="application/rss+xml" /><item>
+    <title>Yoink</title>
+    <link>https://www.metabd.cc/nfts/yoink/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/yoink/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/yoink.png" referrerpolicy="no-referrer">
+            </div>每24小时将颁布Yoink功能。1%的存钱罐将被yoink并随机交给Yoink钱包，如果所选钱包不在前500名，YNK将被烧毁！Yoink是]]></description>
+</item></channel>
+</rss>

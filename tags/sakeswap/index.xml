@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SakeSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/sakeswap/</link>
+        <description>SakeSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/sakeswap/" rel="self" type="application/rss+xml" /><item>
+    <title>SakeSwap</title>
+    <link>https://www.metabd.cc/nfts/sakeswap/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/sakeswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/sakeswap.png" referrerpolicy="no-referrer">
+            </div>受 Uniswap 和 Sushiswap 的启发，SakeSwap 旨在从价格曲线和贡献者奖励方面改进 AMM 的设计。 当 SAKE 治理上线时，SAKE 持有者可以提议对 SakeSwap 协议进行更改。 更改可能]]></description>
+</item></channel>
+</rss>

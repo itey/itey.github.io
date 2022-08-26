@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Spin - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/spin/</link>
+        <description>Spin - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/spin/" rel="self" type="application/rss+xml" /><item>
+    <title>Spin</title>
+    <link>https://www.metabd.cc/nfts/spin/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/spin/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/spin.png" referrerpolicy="no-referrer">
+            </div>Spin 是基于 NEAR 协议构建的 DeFi 衍生品基础设施，这是一种可靠且可扩展的 L1 解决方案。 Spin 提供的链上订单簿解决方案为 DeFi 用户提供了与 CEX 竞争的体验。 Spin 成立于 2021 年]]></description>
+</item></channel>
+</rss>

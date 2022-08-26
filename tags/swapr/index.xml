@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Swapr - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/swapr/</link>
+        <description>Swapr - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/swapr/" rel="self" type="application/rss+xml" /><item>
+    <title>Swapr</title>
+    <link>https://www.metabd.cc/nfts/swapr/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/swapr/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/swapr.png" referrerpolicy="no-referrer">
+            </div>Swapr 是一个多链 AMM，具有一套独特的功能，包括 LP 治理、DIY 农业等等。 Swapr 是第一个允许通过治理调整掉期费用的自动做市商 (AMM)，并且已在 DXdao 社区]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Taco - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/taco/</link>
+        <description>Taco - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/taco/" rel="self" type="application/rss+xml" /><item>
+    <title>Taco</title>
+    <link>https://www.metabd.cc/nfts/taco/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/taco/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/taco.png" referrerpolicy="no-referrer">
+            </div>游戏、实用程序和 DeFi。 Taco 是 WAX 区块链上的终极 Web3 项目，结合了用于加密的智能钱包应用程序、基于 NFT 的 P2E 游戏平台和它自己的元节 Taco Universe。]]></description>
+</item></channel>
+</rss>

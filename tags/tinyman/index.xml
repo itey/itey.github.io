@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tinyman - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/tinyman/</link>
+        <description>Tinyman - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/tinyman/" rel="self" type="application/rss+xml" /><item>
+    <title>Tinyman</title>
+    <link>https://www.metabd.cc/nfts/tinyman/</link>
+    <pubDate>Sat, 20 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tinyman/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/tinyman.png" referrerpolicy="no-referrer">
+            </div>Tinyman 是一个去中心化的交易协议，利用 Algorand 区块链的快速安全框架为交易者、流动性提供者和开发者创建一个开放和安全的市场。 Tinyman 由一支拥有丰富金融科技背景的]]></description>
+</item></channel>
+</rss>
