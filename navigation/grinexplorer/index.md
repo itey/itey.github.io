@@ -1,0 +1,7 @@
+# 
+
+# GRINExplorer
+
+GrinExplorer是一款专注于GRIN币的区块链浏览器，支持从区块哈希和区块高度进行搜索与GRIN-pool矿池相辅相成共同促进GRIN社区和谐发展
+
+

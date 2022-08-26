@@ -1,0 +1,7 @@
+# 
+
+# SouthXchange
+
+SouthXchange是由PRO-Systems建立和运营的加密货币管理平台。SouthXchange的设计考虑了安全性、简便性和实用性性。SouthXchange团队相信加密货币将能改变世界，而团队的使命是提供必要的工具来实现这个愿景。SouthXchange实现的第一个工具是一个允许用户交易加密货币的现代化国际站。团队正在确定市场需求，并将根据需要开发其他工具。
+
+
