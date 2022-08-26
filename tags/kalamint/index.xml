@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kalamint - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/kalamint/</link>
+        <description>Kalamint - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/kalamint/" rel="self" type="application/rss+xml" /><item>
+    <title>Kalamint</title>
+    <link>https://www.metabd.cc/nfts/kalamint/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/kalamint/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kalamint.png" referrerpolicy="no-referrer">
+            </div>Tezos 上第一个社区拥有的 NFT 市场。 清洁 NFT 运动的领导者 Kalamint 是 Tezos 的首批市场之一，Tezos 是一个 LPoS 区块链，与耗电量大的同行相比，它消耗的能源只占一小部分]]></description>
+</item></channel>
+</rss>

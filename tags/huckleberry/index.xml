@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Huckleberry - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/huckleberry/</link>
+        <description>Huckleberry - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/huckleberry/" rel="self" type="application/rss+xml" /><item>
+    <title>Huckleberry</title>
+    <link>https://www.metabd.cc/nfts/huckleberry/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/huckleberry/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/huckleberry.png" referrerpolicy="no-referrer">
+            </div>Huckleberry 是一个基于 Moonriver 的社区驱动的 AMM 跨链 DEX 和借贷平台。我们所做的一切都是社区驱动的，这允许所有用户对 DEX 的未来方向有发言权。 Huckleberry 的基本功能 交换🔄 通过我们]]></description>
+</item></channel>
+</rss>

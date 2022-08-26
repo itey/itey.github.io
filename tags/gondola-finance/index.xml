@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Gondola Finance - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/gondola-finance/</link>
+        <description>Gondola Finance - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/gondola-finance/" rel="self" type="application/rss+xml" /><item>
+    <title>Gondola Finance</title>
+    <link>https://www.metabd.cc/nfts/gondola-finance/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/gondola-finance/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gondola-finance.png" referrerpolicy="no-referrer">
+            </div>Gondola 是 Saddle 的一个分支，但受到 Avalanche 的高吞吐量和亚秒级终结性的支持。 利用 StableSwap 算法，我们将连接 Avalanche 上的任何资产，以解决由于多个桥梁造成的碎片化流动性问题。6]]></description>
+</item></channel>
+</rss>

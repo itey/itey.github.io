@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ebox - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ebox/</link>
+        <description>ebox - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ebox/" rel="self" type="application/rss+xml" /><item>
+    <title>ebox</title>
+    <link>https://www.metabd.cc/nfts/ebox/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/ebox/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ebox.png" referrerpolicy="no-referrer">
+            </div>如果出现任何问题，ebox 为用户提供了撤销交易的可能性 - 通过提供基于智能合约的托管服务，用户可以随时取消传出交易，如果出现任何问题（错误输入]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Juster - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/juster/</link>
+        <description>Juster - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/juster/" rel="self" type="application/rss+xml" /><item>
+    <title>Juster</title>
+    <link>https://www.metabd.cc/nfts/juster/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/juster/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/juster.png" referrerpolicy="no-referrer">
+            </div>Juster 是一个链上智能合约平台，允许用户通过创建事件、为他们提供流动性和进行投注来参与自动投注市场。 我们的主要目标是为所有人提供最透明的投注系统。]]></description>
+</item></channel>
+</rss>

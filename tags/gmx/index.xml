@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>GMX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/gmx/</link>
+        <description>GMX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/gmx/" rel="self" type="application/rss+xml" /><item>
+    <title>GMX</title>
+    <link>https://www.metabd.cc/nfts/gmx/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/gmx/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/gmx.png" referrerpolicy="no-referrer">
+            </div>GMX 是一种链上永续期货和可组合的现货交易协议，允许交易者直接从自己的钱包执行高达 30 倍的交易。 GMX 采用领先的加密资产 (GLP) 的多资产流动性池来执行和结算]]></description>
+</item></channel>
+</rss>

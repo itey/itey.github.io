@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HelloDao - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/hellodao/</link>
+        <description>HelloDao - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/hellodao/" rel="self" type="application/rss+xml" /><item>
+    <title>HelloDao</title>
+    <link>https://www.metabd.cc/nfts/hellodao/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/hellodao/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hellodao.png" referrerpolicy="no-referrer">
+            </div>Hello DAO 是一款基于 BSC 构建的免费游戏，具有完全免费且公平的初始发行版。 我们的官方网站上总共有 20,000 个 Genesis HelloNFT 可供免费铸造。 所有权允许持有者访问未来的游戏内]]></description>
+</item></channel>
+</rss>

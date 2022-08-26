@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>King of the Bill - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/king-of-the-bill/</link>
+        <description>King of the Bill - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/king-of-the-bill/" rel="self" type="application/rss+xml" /><item>
+    <title>King of the Bill</title>
+    <link>https://www.metabd.cc/nfts/king-of-the-bill/</link>
+    <pubDate>Sun, 21 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/king-of-the-bill/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/king-of-the-bill.png" referrerpolicy="no-referrer">
+            </div>“King of the Bill”是一个将捐款转发给慈善机构的 Dapp，并保留了谁捐款最多的排行榜。底层智能合约自动将捐款转发给 GiveDirectl]]></description>
+</item></channel>
+</rss>

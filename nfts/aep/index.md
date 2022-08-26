@@ -1,0 +1,5 @@
+# Original Art by Alexandria Pooré
+
+我的原创作品的数字捕捉。主要是布面油画。我也做混合媒体和雕塑。作为一名艺术家，我受到街头艺术和涂鸦的启发，并被超现实主义人物和明亮的调色板所吸引。在我的本科学习期间，我主要关注陶瓷雕塑和绘画。在探索这两种媒介时，我发现自己在我的几幅作品中重新审视了一个类似的人物。关于这个人物是谁，我还没有得出一个明确的答案，但我一直在玩弄它可能是自画像的一个版本，是我未来某个人的表现，或者是我过去某个人的愿景。我的作品将被铸造为 12 个版本。
+
+![QmfGDkBQZsvngnXA8pAwEp3x8AoktyQtNsQdAVnLMevTeo](QmfGDkBQZsvngnXA8pAwEp3x8AoktyQtNsQdAVnLMevTeo.jpg)

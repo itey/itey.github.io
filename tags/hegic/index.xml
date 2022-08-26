@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hegic - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/hegic/</link>
+        <description>Hegic - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/hegic/" rel="self" type="application/rss+xml" /><item>
+    <title>Hegic</title>
+    <link>https://www.metabd.cc/nfts/hegic/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/hegic/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hegic.png" referrerpolicy="no-referrer">
+            </div>Hegic 是以太坊上的链上期权交易协议。 在 https://www.hegic.co 上，您可以作为个人持有者（买方）购买 ETH 看涨和看跌期权，或者作为流动性提供者之一出售 ETH 看涨和看跌期权。 交易]]></description>
+</item></channel>
+</rss>

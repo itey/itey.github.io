@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hashland - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/hashland/</link>
+        <description>Hashland - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/hashland/" rel="self" type="application/rss+xml" /><item>
+    <title>Hashland</title>
+    <link>https://www.metabd.cc/nfts/hashland/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/hashland/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hashland.png" referrerpolicy="no-referrer">
+            </div>HashLand 定义了下一代 NFT 协议。 Hashland 以现实世界的算力为抵押，采用 NFT 数字资产验证技术，确保用户对多价值合成资产的所有权。 Hashland 让用户可以自由地合成、分割和转移]]></description>
+</item></channel>
+</rss>

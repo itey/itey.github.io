@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>EightBit Me - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/eightbit-me/</link>
+        <description>EightBit Me - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/eightbit-me/" rel="self" type="application/rss+xml" /><item>
+    <title>EightBit Me</title>
+    <link>https://www.metabd.cc/nfts/eightbit-me/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/eightbit-me/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/eightbit-me.png" referrerpolicy="no-referrer">
+            </div>EightBit 是由无数 8 位主题特征生成的 8,888 个 NFT 的集合。在该系列中，有稀有的服装、物品和更多惊喜。 每个 NFT 包含一个 PFP 和一个完整的数字八位字符，它们存储在 IPFS 上]]></description>
+</item></channel>
+</rss>

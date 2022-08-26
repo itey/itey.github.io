@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>KikSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/kikswap/</link>
+        <description>KikSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><atom:link href="https://www.metabd.cc/tags/kikswap/" rel="self" type="application/rss+xml" /><item>
+    <title>KikSwap</title>
+    <link>https://www.metabd.cc/nfts/kikswap/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/kikswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/kikswap.png" referrerpolicy="no-referrer">
+            </div>Kikswap 是第一个与 meme 代币挂钩的多链质押协议。借助网络上的多链技术，其社区成员将能够在 kikswap 的质押池中质押任何 meme 代币。它将成为使用类似策略的所有 meme 货币的]]></description>
+</item></channel>
+</rss>

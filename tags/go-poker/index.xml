@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Go Poker - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/go-poker/</link>
+        <description>Go Poker - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/go-poker/" rel="self" type="application/rss+xml" /><item>
+    <title>Go Poker</title>
+    <link>https://www.metabd.cc/nfts/go-poker/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/go-poker/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/go-poker.png" referrerpolicy="no-referrer">
+            </div>Go Poker 是一个基于 EOS.IO 协议的去中心化德州扑克游戏平台。 Go Poker 提供专业水平的游戏体验。 支持的钱包包括 Scatter 和 Token Pocket。GGPoker 是世界上最大的扑]]></description>
+</item></channel>
+</rss>

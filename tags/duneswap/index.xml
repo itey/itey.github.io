@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DuneSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/duneswap/</link>
+        <description>DuneSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/duneswap/" rel="self" type="application/rss+xml" /><item>
+    <title>DuneSwap</title>
+    <link>https://www.metabd.cc/nfts/duneswap/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/duneswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/duneswap.png" referrerpolicy="no-referrer">
+            </div>Duneswap 是 Oasis Emerald ParaTime 网络原生的自动化做市商/去中心化交易所。 DUNE 是平台的原生代币，可以通过耕种/质押或交易获得。 DUNE 是根据在 Oasis Emerald ParaTime 上通过 Distributor 和/或 Vaults 开采的时]]></description>
+</item></channel>
+</rss>
